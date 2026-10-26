@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "generated_for_date": null,
+  "status": "starter",
+  "astro": [
+    {
+      "id": "start-nasa-apod",
+      "title": "NASA Astronomy Picture of the Day",
+      "summary": "Start with NASA's daily astronomy image and explanation. The automated pipeline will replace or supplement this starter card after the first successful refresh.",
+      "url": "https://apod.nasa.gov/apod/astropix.html",
+      "image": "",
+      "date": "",
+      "source": "NASA APOD",
+      "topic": "astro",
+      "kind": "starter"
+    }
+  ],
+  "quantum": [
+    {
+      "id": "start-pennylane",
+      "title": "Learn quantum circuits with PennyLane",
+      "summary": "PennyLane is an open-source software framework for quantum computing, quantum machine learning and quantum chemistry. The daily pipeline runs a real simulated two-qubit circuit with PennyLane.",
+      "url": "https://pennylane.ai/",
+      "image": "",
+      "date": "",
+      "source": "PennyLane",
+      "topic": "quantum",
+      "kind": "starter"
+    }
+  ],
+  "weather": null,
+  "pennylane": null,
+  "daily_brief": [
+    "Space signal: Open NASA's daily astronomy picture and explanation.",
+    "Quantum signal: Explore PennyLane and quantum-circuit simulation.",
+    "Weather signal: Live local weather appears after the first successful refresh."
+  ],
+  "source_status": {
+    "nasa_apod": false,
+    "arxiv_astro": false,
+    "arxiv_quantum": false,
+    "weather": false,
+    "pennylane": false
+  },
+  "errors": []
+}

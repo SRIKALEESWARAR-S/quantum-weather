@@ -1,0 +1,11 @@
+{
+  "weather": {
+    "city": "Coimbatore",
+    "country": "India",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "timezone": "Asia/Kolkata"
+  },
+  "max_items_per_topic": 8,
+  "request_timeout_seconds": 20
+}
