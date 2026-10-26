@@ -1,0 +1,6 @@
+[
+  "test_update.py::test_brief_does_not_need_every_source",
+  "test_update.py::test_config_has_weather_coordinates",
+  "test_update.py::test_dedupe_preserves_first_item",
+  "test_update.py::test_weather_labels"
+]
