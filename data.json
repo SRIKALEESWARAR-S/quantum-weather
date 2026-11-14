@@ -1,19 +1,140 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:10:47.059775+00:00",
-  "generated_for_date": "2026-11-13",
+  "updated_at": "2026-11-14T07:41:02.316987+00:00",
+  "generated_for_date": "2026-11-14",
   "status": "partial",
   "astro": [
     {
-      "id": "nasa-apod-2026-11-13",
-      "title": "NASA Science",
-      "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.Tomorrow's picture: pixels in space\t\t\t\t\t\t",
-      "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-      "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-      "date": "2026-11-13",
-      "source": "NASA APOD",
+      "id": "2611.17337v1",
+      "title": "The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history",
+      "summary": "White dwarfs (WDs) provide a fossil record of the Milky Way star formation history (SFH) through the combined effects of stellar evolution and cooling. They have, however, generally been modelled in isolation from the non-degenerate population, so that no single self-consistent set of Galactic assumptions has been required to reproduce both. We present CALOMERA, a semi-analytic chemo-dynamical population synthesis framework in which the vertical density profiles of mono-age subpopulations are computed self-consistently with the Galactic potential and coupled to modern WD cooling sequences, metallicity-dependent progenitor lifetimes and synthetic photometry. We calibrate 18 parameters describing the initial mass function, SFH, initial-final mass relation and WD population against a Gaia DR3 sample of $7.98\\times10^{6}$ stars within 1 kpc, including $1.1\\times10^{5}$ WDs. The calibrated model reproduces the star counts in each colour-magnitude diagram region to within 3% and the total number count to within 0.5%, compared with the 81% excess in the predicted WD count obtained with the previous main-sequence-only calibration. The recovered SFH peaks early, declines exponentially thereafter, and includes two recent bursts, located at $τ\\approx2.4$ and $0.5$ Gyr. Three cooling libraries (Montréal, BaSTI and LPCODE) yield comparably good fits, with differences confined to ${\\rm M_G}\\gtrsim15$ mag. The predicted luminosity function is in reasonable agreement with the 100 pc Gaia WD sample. We further predict the Galactic WD distribution and differential number counts for surveys of varying depth. Extending the framework to the substellar regime using ATMO models, we predict the Galactic L, T, and Y dwarf populations and their contribution to the deep JWST fields.",
+      "url": "http://arxiv.org/abs/2611.17337v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
       "topic": "astro",
-      "kind": "image"
+      "authors": [
+        "K. Sysoliatina",
+        "Akash Vani"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17328v1",
+      "title": "A Dark-Sector Mass Flip-Flop Mechanism for the ANITA-IV Events",
+      "summary": "ANITA-IV has observed four upward-going air-shower candidates just below the horizon, consistent with ultra-high-energy $ν_τ$, yet IceCube, despite its much larger exposure, has detected no neutrino events at such energies. We propose a dark-sector mass flip-flop mechanism that reconciles these observations. We consider an all-sky, monoenergetic flux of ultra-high-energy $N_1$, that is lighter than its partner $N_2$ and stable in vacuum. In our scenario, an ultralight scalar mediating interactions with Earth matter inverts the mass ordering of $N_1$ and $N_2$, allowing an incident $N_1$ to decay into $N_2$ deep underground. The resulting $N_2$ propagates unimpeded through matter and exits the Earth, where the decay $N_2 \\to N_1 Z'$ becomes kinematically allowed in the atmosphere, initiating an extensive air shower. At IceCube depths, neither $N_1\\to N_2 Z'$ nor $N_2\\to N_1 Z'$ is kinematically allowed, which explains the absence of analogous events at IceCube. Normalizing the $N_1$ flux to the four ANITA-IV events, we also predict three events during PUEO's first flight.",
+      "url": "http://arxiv.org/abs/2611.17328v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        "Dibya S. Chattopadhyay",
+        "Carlos A. Argüelles",
+        "Vedran Brdar"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17305v1",
+      "title": "Euclid data release 1 (DR1) - SIR spectroscopic calibration",
+      "summary": "The Euclid space mission is dedicated to probing the nature of dark energy and dark matter, through a comprehensive mapping of the Universe's large-scale structure. Central to these cosmological goals are the spectra produced by the Near-Infrared Spectrometer and Photometer (NISP) and reduced by the scientific pipelines of the SIR (Spectral near InfraRed) processing function. Due to the intrinsic complexity of slitless spectroscopic data, scientific observations cannot be self-calibrated by the science pipelines. Consequently, the development of dedicated SIR calibration pipelines, utilising specific pointing sequences and observation fields, is essential. The resulting calibration products are fundamental to ensuring that reduced spectra are characterised within requirements in both wavelength and flux. This paper provides a detailed description of the SIR calibration pipelines responsible for generating the products utilised by the science pipelines for Data Release 1 (DR1). A significant challenge in these calibration tasks arises from the requirement to model the entire focal plane as a unified entity. Such a global modelling approach is critical for maintaining astrometric and spectroscopic continuity across the entire field of view. DR1 provides more than 170 millions validated spectra in both red- and blue-grism modes. The accuracy of the reduced spectra is strictly dependent on the performance of the calibration pipelines. Comprehensive analyses of the calibration products and the resulting science spectra demonstrate that current outputs successfully meet the mission requirements. Nevertheless, specific areas for optimisation have been identified; ongoing development is focused on addressing these critical points to further enhance data quality for future data releases.",
+      "url": "http://arxiv.org/abs/2611.17305v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        " Euclid Collaboration",
+        "M. Fumana",
+        "Y. Copin",
+        "P. N. Appleton"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17300v1",
+      "title": "JWST Rocky Worlds DDT Observations of LTT 1445 A b and c in Secondary Eclipse Using MIRI/F1500W",
+      "summary": "The JWST Rocky Worlds Director's Discretionary Time (RWDDT) program uses secondary eclipse observations to determine the conditions under which rocky exoplanets around M dwarfs retain their atmospheres. We present RWDDT MIRI/F1500W observations of LTT 1445 A b and c, the transiting rocky siblings in the nearest such system (6.9 pc), comprising two eclipses of each planet across three visits. We perform three independent reductions and a joint fit that includes all existing JWST data and 220 radial velocities, improving the precision on the planetary radii, masses, and orbital parameters by factors of 1.6-2.3. We measure eclipse depths of $157^{+18}_{-17}$ ppm and $154^{+54}_{-37}$ ppm for planets b and c, corresponding to 15 $μ$m brightness temperatures of $528^{+39}_{-29}$ K and $625^{+109}_{-79}$ K, both consistent with the dark, bare rock limit. For planet b, combining these data with the archival MIRI/LRS spectrum in a Bayesian retrieval limits the CO$_2$ partial pressure to $<0.6$ mbar and the surface pressure to $\\lesssim0.1$ bar, while forward models exclude thick aerosol layers that could mimic a bare surface in transmission. We conclude that planet b has no substantial atmosphere. For planet c, a potentially grazing eclipse and overlapping events leave the depth poorly constrained; the data rule out only thick, CO$_2$-bearing atmospheres ($\\gtrsim1$ bar with $\\geq1\\%$ CO$_2$). LTT 1445 A b is the planet closest to the canonical XUV-driven Cosmic Shoreline observed in eclipse so far. Its lack of a substantial atmosphere implies that the Cosmic Shoreline cannot lie much farther toward the airless side than nominally predicted.",
+      "url": "http://arxiv.org/abs/2611.17300v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        "Jegug Ih",
+        "Shubham Kanodia",
+        "Nicholas Wogan",
+        "Mark Fortune"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17299v1",
+      "title": "Simulation-Based Priors and BAO Shifts from the Lyman-$α$ Forest at the Field Level",
+      "summary": "We present an analytic forward model for the Lyman-alpha (Ly-alpha) forest flux field based on cubic-order large-scale structure perturbation theory (effective field theory) calculations. We validate our cubic model on two sets of hydrodynamic simulations spanning $2 \\leq z \\leq 4$: the small-volume CAMELS suite, which spans a wide range of cosmological and astrophysical parameters, and the large-volume, high-resolution Sherwood simulations. We find qualitatively similar results for both at the power-spectrum level. The perturbative model reproduces the three-dimensional flux power spectrum of the simulations to $\\sim 5\\%$ down to $k \\simeq 1$-$1.5\\,h\\,{\\rm Mpc}^{-1}$, depending on the redshift. This improves compared to previous quadratic perturbative forward models by up to 40%. Exploiting cosmic-variance cancellation in the field-level approach, we carry out precision measurements of the Lyman-alpha forest bias parameters from the CAMELS simulation suite. We use these measurements to analytically predict the shifts in the Baryon Acoustic Oscillations (BAO) scaling parameters induced by nonlinearities in the three-dimensional Lyman-alpha forest clustering as a function of cosmological parameters. We find sub-percent shifts in both the radial and transverse directions with a noticeable dependence on cosmology and redshift. Finally, from the field-level fits we construct simulation-based priors that can be used for cosmological analyses of the Lyman-alpha forest with the currently observing Dark Energy Spectroscopic Instrument (DESI). In addition, our cubic model captures the connected four-point function (trispectrum) of the forest, which opens up novel opportunities for accurate covariance matrix estimation for DESI and its successor, DESI-II.",
+      "url": "http://arxiv.org/abs/2611.17299v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        "Divij Sharma",
+        "Roger de Belsunce",
+        "Mikhail M. Ivanov"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17290v1",
+      "title": "Radiation, Thermochemistry, and Stellar Feedback in DISPATCH",
+      "summary": "The growth of massive stars depends on whether their accretion flows survive radiation and outflow feedback from the forming stellar population. We present an extension of DISPATCH that couples directional stellar radiation, diffuse infrared transport, and thermochemistry to self-gravitating magnetohydrodynamics, individual stellar accretion, and protostellar jets. This AMR-based method uses DISPATCH's local timestepping, allowing stellar environments and their larger scale cluster environments to step on separate timescales, and providing the framework needed to scale to long-duration simulations of GMCs. Direct radiation is transported in multiple bands, including both ionizing and nonionizing radiation, and uses short characteristics to maintain source directions and shadowing. Diffuse radiation is implemented for IR reprocessed light, with M1 and stationary ray options for transport. The thermochemical model includes atomic and molecular hydrogen and helium chemistry, and metal cooling and dust. It also includes a composition-dependent equation of state. Stellar masses grow through accretion of gas rather than a prescribed IMF, allowing stellar masses to respond to the evolving gas supply and feedback. In tests, multiple-source illumination retains geometric shadows while diffuse reprocessing heats shielded material, and tests of jets, ionization fronts, and radiation pressure demonstrate expected behavior and convergence. Ionization fronts also cross asynchronous refinement boundaries with late-time propagation speeds within a few percent of analytic predictions. Together, these developments provide a framework for determining how radiative and mechanical feedback modify the duration and efficiency of accretion from turbulent clouds, connecting the gas supply to individual stars with the high-mass stellar initial mass function.",
+      "url": "http://arxiv.org/abs/2611.17290v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        "William Lake",
+        "Paolo Padoan",
+        "Åke Nordlund",
+        "Troels Haugbølle"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17266v1",
+      "title": "Global Fit Inference for LISA with samsara++",
+      "summary": "The Laser Interferometer Space Antenna (LISA) will observe a superposition of gravitational-wave signals, requiring joint inference of an unknown number of sources, parameters, and instrumental noise. To disentangle these contributions, that overlap in both time and frequency, a Global Fit (GF) analysis is needed. We present samsara++, a C++/CUDA sampler designed to address this trans-dimensional GF problem. Building on the continuous-time MCMC framework of samsara, the algorithm combines birth-death processes for adding and removing sources, with mutation moves for parameter estimation. Birth and death are selected through posterior-dependent rates. Shared-memory parallelism, incremental likelihood updates, and indexed storage reduce the computational and memory costs, while parallel tempering improves the exploration of multimodal posteriors. We assess the performance using simulated one-year LISA datasets containing Galactic double white dwarf binaries and stationary Gaussian instrumental noise. Analyses of populations containing 143 and 866 binaries start from empty source models, without preliminary searches or proposals tailored to the injected population. These tests demonstrate source reconstruction and catalog generation, highlighting, at the same time, the importance of source-count, overlapping signals, and incomplete mixing on joint source and noise inference. Then we perform a separate stress test, initialized at the injected parameters, exploring a population of 16,435 binaries, corresponding to 131,480 source parameters. This run completes 15 million iterations in approximately 16 hours using about 3 GB of RAM. All together, these benchmarks show the computational feasibility of birth-death sampling for large Galactic-binary populations, and provide a foundation for extending samsara++ toward a comprehensive LISA global fit.",
+      "url": "http://arxiv.org/abs/2611.17266v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        "Lorenzo Valbusa Dall'Armi",
+        "Gabriele Astorino",
+        "Riccardo Buscicchio",
+        "Angelo Ricciardone"
+      ],
+      "kind": "paper"
+    },
+    {
+      "id": "2611.17242v1",
+      "title": "Characterising a population of fast-declining SNe Ia in galaxy cluster cores",
+      "summary": "Galaxy cluster cores, characterised by old stellar population and suppressed star-formation are ideal for studying the environmental dependence of Type Ia supernovae (SNe Ia). It is unclear whether the diversity of SNe Ia, parametrised by light curve stretch, stems from distinct explosion mechanisms or varying initial conditions, both closely tied to progenitor age. We analyse the light curve stretch and colour distribution of photometrically identified SNe Ia within the galaxy clusters cores, utilising the Zwicky Transient Facility (ZTF) archival data. Using the AMPEL platform, we filter 89,025 ZTF transients spatially coincident with our galaxy cluster catalogues to identify 4,969 likely SN Ia candidates. We split this sample into three populations: core cluster SNe Ia $r \\le 0.5R_{500}$, outer-core cluster SNe Ia $0.5R_{500}< r\\le 2R_{500}$, and a reference population of non-cluster SN Ia. We present the largest sample of photometrically identified cluster SNe Ia to date, notably isolating a population of 242 SNe Ia within innermost cluster cores $r \\le 0.5R_{500}$. This fast-declining SN Ia population is statistically different from the outer-core cluster and field SN Ia population at $\\sim4σ$ level. A marginal statistical preference for a bimodal distribution over a unimodal one $ΔAIC$ of 1.53 and 2.3 for each catalogue, indicate cluster cores almost entirely host fast-declining SNe Ia. Conversely, the colour distribution show no significant environmental variation. By filtering out the prompt SN Ia population, cluster cores provide an environment to directly probe the delayed SN Ia progenitor channel. Our observations support a two-population model where progenitor age drives the light curve stretch diversity. The low-stretch values observed in core cluster SNe Ia suggest sub-Chandrasekhar mass double degenerate systems as their likely progenitors.",
+      "url": "http://arxiv.org/abs/2611.17242v1",
+      "image": "",
+      "date": "2026-11-12",
+      "source": "arXiv astrophysics",
+      "topic": "astro",
+      "authors": [
+        "A. Eranhalodi",
+        "J. Nordin",
+        "M. Kowalski",
+        "U. Burgaz"
+      ],
+      "kind": "paper"
     }
   ],
   "quantum": [
@@ -584,9 +705,9 @@
     "device": "default.qubit",
     "mode": "classical simulation of a quantum circuit",
     "title": "Two-qubit entanglement experiment",
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "description": "Prepare a parameterized qubit, apply a Hadamard gate, entangle the pair with CNOT, then estimate basis-state probabilities and the Pauli-Z expectation value.",
-    "theta_radians": 0.4465,
+    "theta_radians": 0.3205,
     "shots": 1000,
     "basis_states": [
       "|00⟩",
@@ -595,32 +716,36 @@
       "|11⟩"
     ],
     "probabilities": [
-      0.477,
-      0.464,
-      0.028,
-      0.031
+      0.498,
+      0.473,
+      0.012,
+      0.017
     ],
-    "z_expectation": 0.914,
-    "circuit_text": "0: ──RY(0.45)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
+    "z_expectation": 0.942,
+    "circuit_text": "0: ──RY(0.32)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
     "source": "PennyLane simulator",
     "url": "https://pennylane.ai/"
   },
   "daily_brief": [
-    "Space watch: NASA Science",
+    "Space watch: The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history",
     "Quantum watch: Long-lived light-driven bimagnons at finite momentum in NiO",
     "Weather in Coimbatore: 31.0°C, overcast."
   ],
   "source_status": {
-    "nasa_apod": true,
-    "arxiv_astro": false,
+    "nasa_apod": false,
+    "arxiv_astro": true,
     "arxiv_quantum": true,
-    "weather": true,
+    "weather": false,
     "pennylane": true
   },
   "errors": [
     {
-      "source": "Astrophysics papers",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"
+      "source": "NASA APOD",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "source": "Weather",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=20)"
     }
   ]
 }
