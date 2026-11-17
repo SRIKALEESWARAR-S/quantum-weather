@@ -1,272 +1,261 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T08:05:37.336053+00:00",
-  "generated_for_date": "2026-11-16",
-  "status": "ok",
+  "updated_at": "2026-11-17T09:20:51.226772+00:00",
+  "generated_for_date": "2026-11-17",
+  "status": "partial",
   "astro": [
     {
-      "id": "nasa-apod-2026-11-16",
-      "title": "NASA Science",
-      "summary": "How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can get complicated when previously formed stars emit powerful jets and winds -- and some then explode. Opaque dust can form in the cool atmospheres of stars and, when dispersed, can obstruct visible-light images. Many stars can be seen to be forming in the featured image, with the young stars on the left, in the gold-colored gas, typically being more mature than the young stars on the right -- in the red region. Jets and winds likely cause the filamentary nature of the red-colored gas. Studying stars at different stages of development bolsters understanding about what physical processes are most important and when.Tomorrow's picture: sky duel\t\t\t\t\t\t",
-      "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-      "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+      "id": "2611.21595v1",
+      "title": "Rest-frame annihilation lines of $\\sim70$ GeV WIMPs in 23,000 stacked galaxy clusters",
+      "summary": "Weakly interacting massive particle (WIMP) annihilation features were reported as a 43 GeV line in three Fermi-LAT galaxy clusters ($\\mathtt{S}_3$), as triad $\\{γγ, γZ,γh\\}$ lines from $\\sim70$ GeV WIMPs in LAT data cross-correlated ($\\mathtt{C}_{\\mathtt{W}}$) with western eROSITA X-rays, and as a nonad (combining three triads) of two cross-annihilating WIMPs in $\\mathtt{C}_{\\mathtt{W}}$. A blind scan of LAT 16.3-year data around 23,343 high-latitude clusters in their rest frames finds three triads, at 70 GeV ($2.8σ$ trial-corrected, henceforth), $72$ GeV ($1.3σ$; strengthening to $2.7σ$ if mass-fixed by $\\mathtt{S}_3$, $4.0σ$ combined with $\\mathtt{C}_{\\mathtt{W}}$ masked around the clusters, $5.7σ$ if also combined with $\\mathtt{S}_3$), and 74-75 GeV: a triplet not only rare ($3.5σ$) but also forming a $\\{70,74\\}$ GeV nonad ($3.4σ$; strengthening to $4.0σ$, $4.6σ$, and $6.1σ$, respectively). The spectral features, robust in and out of the $\\mathtt{C}_{\\mathtt{W}}$ region and $\\mathtt{S}_3$ clusters, appear in all Galactic quadrants and only in the cluster rest frame (vanishing upon redshift rescaling or permutation), fade away from cluster centers, are absent from their surrounding stacked fields, and like $\\mathtt{C}_{\\mathtt{W}}$ indicate intrinsic few $10^{-19}$ cm$^3$ s$^{-1}$ cross sections (uncorrected) across samples. All features are largely explained by cross-annihilating $69.7^{+0.4}_{-1.0}$ and $74.5^{+1.1}_{-0.6}$ GeV WIMPs.",
+      "url": "http://arxiv.org/abs/2611.21595v1",
+      "image": "",
       "date": "2026-11-16",
-      "source": "NASA APOD",
-      "topic": "astro",
-      "kind": "image"
-    },
-    {
-      "id": "2611.18558v1",
-      "title": "Reconstruction of Dynamical Dark Energy and Gravity from latest cosmological data",
-      "summary": "Recent cosmological observations have renewed interest in non-standard late-time evolution. We investigate whether departures from the standard expansion history are accompanied by modifications of gravitational dynamics through a joint, non-parametric reconstruction of the effective dark energy density, $Ω_{\\rm X}(a)$, and the gravitational response functions $μ(a)$ and $Σ(a)$. Combining CMB, DESI DR2 BAO, Pantheon+, and large scale structure observations, including DES Year 3 $6\\times2$pt data, we perform reconstructions with and without a theory motivated correlation prior derived from stable Horndeski models. We find a persistent maximum in $Ω_{\\rm X}$ at $z\\simeq0.5$--$0.7$, corresponding to a crossing of the effective phantom divide. This feature is already present in the CMB+BAO combination and remains robust when modifications to clustering and lensing are allowed. The reconstructed gravitational response exhibits suggestive enhancements in $μ$ and $Σ$ over approximately the same redshift range, although these departures are less significant. Including LSS information instead favours a reduced lensing response, $Σ<1$, while leaving the background feature largely unchanged. An interpretation within Generalized Brans-Dicke theories illustrates how modifications to the effective gravitational coupling and a scalar-mediated fifth force may contribute to these trends. Our results indicate that current departures from $Λ$CDM are most significant in the expansion history, while leaving open the possibility of correlated modifications to gravitational dynamics that future Stage IV surveys can test.",
-      "url": "http://arxiv.org/abs/2611.18558v1",
-      "image": "",
-      "date": "2026-11-13",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Maria Luisa Gallavotti",
-        "Alessandra Silvestri"
+        "Uri Keshet"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18557v1",
-      "title": "Does Dark Energy Evolve $\\textit{and}$ Cluster?",
-      "summary": "Recent cosmological observations have renewed interest in dynamical dark energy, and naturally raise the question of whether departures from the standard expansion history are accompanied by modifications of gravitational dynamics. We address this question through a joint, non-parametric reconstruction of the effective dark-energy contribution to the expansion and the gravitational responses governing clustering and lensing, complemented by a combined covariance-mode analysis, without imposing model-specific relations between the sectors. Combining CMB, DESI DR2 BAO, and Pantheon+ supernova observations, and subsequently adding large scale structure observations including DES Year 3 $6\\times2$pt data and other surveys, we recover a broad maximum in the effective dark-energy density near $z\\simeq0.6$--$0.7$. The gravitational responses exhibit suggestive low-redshift enhancements over their GR values, approximately coincident with the background feature. Adding large scale structure information preserves the background feature but favours a mildly reduced lensing response. The combined covariance-mode analysis identifies the combinations of background and gravitational responses most tightly constrained by current observations and quantifies their departures from $Λ$CDM. The leading modes are decisively background dominated, while the gravitational sector remains less precisely constrained. Thus, present data cannot yet determine whether the suggestive low-redshift features in the two sectors share a common physical origin, a question that ongoing Stage-IV surveys will be able to address",
-      "url": "http://arxiv.org/abs/2611.18557v1",
+      "id": "2611.21583v1",
+      "title": "Compositions of Exoplanetary Debris Shaped by Milky Way Stellar Abundance Patterns",
+      "summary": "Galactic chemical evolution (GCE) predicts large-scale variations in exoplanet compositions with host star elemental abundances, reflecting the Milky Way's history of star formation and elemental enrichment from stellar feedback. We investigate the impact of GCE on the compositions of exoplanetary bodies using polluted white dwarfs (WDs), which probe the bulk elemental abundances of planetary debris. Using a literature sample of 70 polluted WDs, we calculate iron mass fractions for the accreted bodies and compare these to tracers of the WD progenitor's initial abundances, including age and kinematics. We demonstrate predicted trends using a sample of main sequence stars, and we show that these are generally reflected in the polluted WD sample. In particular, H-dominated WDs show preferentially larger iron mass fractions amongst younger and less dynamically excited systems. This trend is weaker amongst He-dominated WDs, and we show that this may be attributed to uncertainties in their observed phases of accretion. Continuing to combine WD pollution compositions with stellar parameters and kinematics could be a valuable way to constrain large-scale versus local drivers of planetary compositions.",
+      "url": "http://arxiv.org/abs/2611.21583v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Maria Luisa Gallavotti",
-        "Alessandra Silvestri"
+        "Isabella L. Trierweiler",
+        "Kendra Nguyen",
+        "Lou Baya Ould Rouis",
+        "Pratik Gandhi"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18528v1",
-      "title": "KELP v1.0: an agent-ready Lagrangian particle tracker for unstructured meshes and HEALPix grids",
-      "summary": "Lagrangian particle tracking follows virtual particles in the velocity fields of an ocean model to study transport pathways, connectivity and dispersion. Setting up such a study takes many technical steps, and this work is increasingly done with coding agents, programs in which a language model writes code, runs it and checks the result. We present KELP v1.0, the Kinematic Engine for Lagrangian Particles, a tracker for unstructured ocean-model meshes and HEALPix grids that is built to be operated by such agents. KELP computes two- and three-dimensional trajectories with established methods on triangular, quadrilateral and mixed meshes, with global FESOM2 and coastal FESOM-C meshes as examples, and on HEALPix, the equal-area grid on which kilometre-scale digital twins distribute their output. Documentation and short task instructions, called skills, tell an agent how to prepare releases and configurations, run calculations and process the trajectories. An agent prepared and ran all experiments of this paper with these skills, and most of the preparation was completed within hours. In a controlled evaluation, the skills raised the completeness of study files prepared by five language models from 75-93% to 88-100%. KELP reproduced the particle distributions of two other trackers on the same fields. Trajectories on HEALPix fields converged to those on the model mesh as the pixels were refined. After one year, the median distance between the two was 1.6 km at a pixel spacing of 25.5 km. HEALPix output can therefore be used for Lagrangian studies of ensemble statistics when the original mesh is not available. In a 63-year calculation with 7.92 million particles released in the Beaufort Gyre, transport from the gyre to Fram Strait took years to decades, and the run took 3 h 36 min on one 128-core node. A test tracked $10^{10}$ particles on a HEALPix mesh of 35.5 million wet surface nodes.",
-      "url": "http://arxiv.org/abs/2611.18528v1",
+      "id": "2611.21580v1",
+      "title": "Gravitational Waves from Population III Black Hole Mergers in Primordial Gas Disks: Constraining Astrophysical Scenarios with the Laser Interferometer Space Antenna and the Einstein Telescope",
+      "summary": "The first generation of metal-free Population III (Pop~III) stars provides a possible formation channel for the black hole (BH) seeds in the early Universe. Their remnants may grow through gas accretion and mergers, producing gravitational wave (GW) signals detectable by future observatories. We develop a semi-analytical model of fragmentation in a primordial self-gravitating gas disk within minihaloes at $z > 15$, motivated by high-resolution cosmological simulations. The resulting Pop~III stars form around a central primary, some leaving massive BH remnants that migrate towards the central BH through dynamical friction from gas and dark matter, while the central BH grows through accretion and mergers. For a $10^6~{\\rm M_\\odot}$ halo at $z=20$, we explore how the initial mass function (IMF) and BH accretion efficiency affect detectability with the Laser Interferometer Space Antenna (LISA) and the Einstein Telescope (ET). We find that both detectors can potentially reveal mergers of Pop III remnant BHs, but favor different astrophysical conditions. LISA pinpoints more massive central BHs ($\\sim10^3$-$10^4 {\\rm M_\\odot}$), grown rapidly through mutual mergers alongside efficient gas accretion ($f_{\\rm Edd}=1$), and a relatively top-heavy IMF ($α=0.8$). In contrast, detectability with ET favors lower-mass BHs, with less efficient accretion ($f_{\\rm Edd}=0.01$) and a steeper IMF ($α=1.5$). These results highlight the potential of LISA and ET to probe Pop~III BH formation, growth, and mergers across different regions of parameter spaces, jointly constraining Pop~III star formation and early BH seed evolution.",
+      "url": "http://arxiv.org/abs/2611.21580v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Ivan Kuznetsov",
-        "Alexey Androsov",
-        "Dmitrii Pantiukhin",
-        "Claudia Wekerle"
+        "Maulik Bhatt",
+        "Lucio Mayer",
+        "Pedro R. Capelo",
+        "Simona Gallerani"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18515v1",
-      "title": "Parity conservation of the isotropic galaxy 4PCF in redshift space",
-      "summary": "Recent observational investigation of cosmological Parity Violation (PV) through the galaxy Four-point Correlation Function (4PCF) has motivated a careful theoretical examination of potential systematic contributions. In this work, we demonstrate that parity-odd contributions to the isotropic 4PCF estimator induced by Redshift Space Distortion (RSD), up to the leading order $\\mathcal{H}/k$ of general relativistic corrections, vanish upon averaging over all the Line-of-Sight (LOS). We analyse the perturbative relativistic galaxy number density, combining the biased tracer expansion and the dark matter gravitational dynamics within the framework of Standard Eulerian Perturbation Theory (EPT) to third order in the density perturbation. Building on prior studies of the parity-odd mode of the trispectrum (the Fourier-space counterpart of the 4PCF), we extend existing results in three directions: incorporating the wide-angle effect by adopting a local LOS definition for each galaxy in the 4PCF, accounting for tidal bias in the galaxy population, and generalising the assessment to an arbitrary cosmological background. Expanding the 4PCF in spherical harmonics, we show that angular momentum selection rules, encoded in the Wigner 3-j symbols, enforce that only parity-even contributions survive the integration over all LOS orientations, both in the plane-parallel approximation and in the full wide-angle case. This result is crucial for large-scale statistical analyses using isotropic estimators. It supports interpreting possible PV detections as a signal not due to a systematic RSD artefact. We conclude with a discussion of the caveats of our results and identify potential sources of PV.",
-      "url": "http://arxiv.org/abs/2611.18515v1",
+      "id": "2611.21575v1",
+      "title": "Scaling of impact ripples across planetary conditions",
+      "summary": "Ubiquitous wind-driven (aeolian) ripples have been thought to emerge solely from grain collisions with the bed during saltation. Recent findings, however, have shown that there are two scales of aeolian ripples, with the larger scale having a hydrodynamic origin, akin to water ripples, and the smaller scale ('impact ripples') being hypothesized to emerge from the grain-bed collision mechanism. Still, there are several instances where only one ripple scale is found and the formation mechanism is not clear. Here we compare numerical simulations of only impact ripples with observations, over a broad range of planetary conditions, to clarify their defining characteristics. We find two main regimes for the scaling of impact ripple wavelengths based on transport intensity: for low-intensity transport ('saltation' regime), impact ripple wavelengths scale with grain size regardless of the fluid density; whereas for high-intensity transport ('collisional' regime) wavelengths scale with the average hoplength and thus increase with the fluid velocity. In contrast, impact ripple migration speeds strongly depend on the grain-fluid density ratio, grain size and fluid velocity. Finally, we find that impact ripple speeds become zero or negative (denoting stationary ripples and antiripples, respectively) for grain-fluid density ratios below a threshold that depends on the grain size. In particular, for low density ratios, like those found on Venus, or millimeter-scale grains on Earth, we find only antiripples. Our results thus provide a general framework for interpreting ripple emergence across environments and for identifying impact ripples in ambiguous field or experimental data.",
+      "url": "http://arxiv.org/abs/2611.21575v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Chanasorn Kongprachaya",
-        "Nicola Bartolo",
-        "Daniele Bertacca",
-        "Sabino Matarrese"
+        "C. W. Lester",
+        "O. Duran",
+        "A. B. Murray"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18512v1",
-      "title": "Probing baryonic feedback using fast radio bursts and galaxy surveys",
-      "summary": "The dispersion measure (DM) of fast radio bursts (FRB) provides a noisy measure of the free-electron column density to the burst. With next-generation FRB surveys the number of bursts will drastically increase and measurements of the baryon distribution will be possible on the Mpc scales most relevant to Stage IV weak lensing surveys. Comparing the DM auto-spectrum, DM-shear cross-spectrum and the kinetic Sunyaev-Zel'dovich effect, we argue that the cross-correlation of FRB catalogs with galaxy surveys offers many advantages. Hybrid Effective Field Theory (HEFT), often used in large-scale structure cosmology, is capable of modeling the clustering of electrons jointly with galaxies and matter to small scales. Using HEFT with the Padé model of baryonic feedback, we forecast that next-generation FRB surveys (combined with galaxy samples) will be able to constrain feedback at a level informative for Stage IV weak lensing surveys. In particular we should not be limited by modeling the manner in which galaxies trace the matter field. Rather constraints of the higher-order electron biases and the electron-galaxy cross-stochasticity provide the dominant limitation, and are an obvious target for improvement in order to reach percent-level constraints. The same measurements also provide a valuable means of constraining feedback in hydrodynamic simulations of galaxy formation in a way that is not tied to the modeling of particular galaxy samples.",
-      "url": "http://arxiv.org/abs/2611.18512v1",
+      "id": "2611.21534v1",
+      "title": "Two new Li-rich dwarf stars in M 4: abundance patterns and possible origins",
+      "summary": "Context. Li-rich stars are rare, and only 16 are known in globular clusters (GCs), spanning evolutionary stages from the main sequence turnoff to the red giant branch. Their origin is still debated, but GCs provide a unique environment to discriminate among proposed mechanisms for Li enrichment. Aims. We aim to characterise two newly discovered Li-rich dwarf stars, 44606 and 58195, in the GC M 4 (NGC 6121) and investigate their origin among the formation channels proposed in the literature. The previously known Li-rich star in the cluster, namely 37934, was re-analyzed for comparison. Methods. We performed a standard abundance analysis based on 1D model atmospheres in local thermodynamic equilibrium (LTE) on high-resolution Ultraviolet and Visual Echelle Spectrograph (UVES). We measured the projected rotational velocity and searched for chromospheric activity. Results. We derive A(Li)= 2.58, 2.51 dex for stars 44606 and 58195, respectively, significantly different from the A(Li) distribution of normal dwarfs in M 4. For the known Li-rich star 37934, we obtain A(Li)= 3.01 dex, consistent with previous work. We estimate detailed abundances of 24 species (Li, C, N, O, Na, Mg, Al, Si, S, K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Sr, Y, Zr, Ba, and Nd) in the three stars. None of our targets show detectable rotational broadening or chromospheric activity. Conclusions. The Li-rich stars analysed here are unevolved, ruling out in-situ Li production. Planet engulfment is very unlikely in GCs, and we detect no present-day rotation or activity. By exclusion, the most plausible remaining scenarios involve different types of interaction with a companion, including dynamical interactions, mass transfer, and mergers. Currently, we have not detected a companion.",
+      "url": "http://arxiv.org/abs/2611.21534v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Haruki Ebina",
-        "Martin White"
+        "F. Lucertini",
+        "E. Pancino",
+        "L. Monaco",
+        "L. Sbordone"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18508v1",
-      "title": "Restoring Consistency with Poynting's Theorem in Numerical MHD and RMHD",
-      "summary": "For perfectly conducting plasmas, Poynting's theorem states that the time rate of change of electromagnetic energy density equals the negative of the divergence of the Poynting flux. To the best of our knowledge, this involutive theorem has never been mimetically incorporated in codes. We show that there is an inconsistency in MHD and RMHD codes that evolve face-centered magnetic fields in globally-divergence-free fashion. This is because the face-centered flux of energy density, which incorporates a Poynting vector, is evaluated using one-dimensional Riemann solvers that are applied at face-centers. However, the face-centered magnetic fields are evolved according to edge-centered electric fields that come from two-dimensional Riemann solvers that are applied to the edges of a zone. While edge-centered electric fields are used to evolve the magnetic field, they have no influence on the face-centered Poynting flux. For situations where the magnetic energy is much larger than the thermal energy, this causes a negative pressure to be evaluated at the zone-centers. This paper restores consistency by using edge-centered variables to evaluate a face-centered Poynting flux. A simple accuracy-preserving correction is made to the face-centered flux of energy density. We show that it helps considerably in simulations that have very strong magnetic fields.",
-      "url": "http://arxiv.org/abs/2611.18508v1",
+      "id": "2611.21518v1",
+      "title": "X-ray Flare Evolution and Changing-Look Nature of the TeV Blazar OQ 334",
+      "summary": "The blazar OQ 334 (B2 1420+326, z = 0.682) is one of the few jetted AGN with repeated changing-look (CL) transitions between FSRQ and BL Lac states. We present a multi-wavelength study covering 2017 December to 2024 September, focusing on three X-ray flares observed with Swift-XRT (X1: 2019 June 26--July 24, X2: 2020 January 4--February 21, X3: 2024 June 24--August 2) and on the spectral properties of the CL states. The spectrum hardens from flare to flare, with $Γ$ decreasing from $1.97 \\pm 0.09$ to $1.71 \\pm 0.04$ and $1.34 \\pm 0.06$, while the hysteresis evolves from an initial clockwise loop, consistent with cooling-dominated emission, to multi-loop trajectories in the later flares. The X-ray spectra separate the CL states, with FSRQ states hardest ($Γ_X \\approx 1.3$--$1.5$), BL Lac states softest ($Γ_X \\approx 1.8$--$2.4$), and transition states intermediate. Within the CL states, flux and photon index are positively correlated ($r = 0.59$, $p = 2.5 \\times 10^{-2}$), producing a softer-when-brighter trend. The first two flares coincide with FSRQ $\\rightarrow$ BL Lac transitions, whereas the third, the brightest, remains FSRQ-like. One-zone leptonic modelling of the broadband SEDs reproduces the flares with a weak, nearly constant magnetic field and a particle-dominated region, and the X-ray emission evolves from a substantial synchrotron contribution in the first flare to complete inverse-Compton dominance in the third. The X-ray band traces the changing balance between the synchrotron and inverse-Compton components in the flares and provides a sensitive probe of the CL behaviour of the source.",
+      "url": "http://arxiv.org/abs/2611.21518v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Dinshaw S. Balsara",
-        "Deepak Bhoriya"
+        "Navaneeth P K",
+        "Gopal Bhatta",
+        "Cosimo Nigro"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18499v1",
-      "title": "Verifying the High-Energy Tail in Bi-Kappa Particle Loading: Three-Dimensional Tests, Velocity Bounds, and Finite Precision",
-      "summary": "The bi-Kappa distribution models anisotropic space-plasma populations with suprathermal power-law tails. Kinetic simulations represent such a population by computational particles, and a loader draws their velocities from the requested bi-Kappa distribution, which we call the target distribution. When $κ$ is close to 1/2, floating-point underflow can remove the largest draws, and a velocity bound changes the loaded distribution. Published Kappa loaders are usually verified by comparing histograms of the speed or of one velocity component with the analytic distribution. Such comparisons do not examine the direction of the velocity or whether the direction is independent of the speed. We build an anisotropic loader on an established Gamma-ratio construction and examine each of these problems. Near $κ=1/2$, evaluating the Gamma ratio on a logarithmic scale avoids the loss of draws to underflow in single and double precision down to $κ=0.5001$. When draws outside a bound on each velocity component are discarded and redrawn, a small rejected fraction can accompany a large change in the tail. At $κ=2$ and $θ_\\parallel=2θ_\\perp$, a bound at 20 times each component's thermal speed rejects a fraction $3.6\\times10^{-4}$ of the draws and lowers the 99.9th-percentile speed by 11%. We test the loaded velocities through their direction and their normalized radius, the length of the velocity after each component is divided by $\\sqrtκ$ times its thermal speed. The tests used nine values of $κ$ from 0.51 to 10, including $1/2<κ\\le3/2$, where the second moments do not exist, with $θ_\\parallel=2θ_\\perp$ in double precision. At every $κ$, $χ^2$ tests find the normalized radius out to its 99.999th percentile, the direction, and their joint distribution consistent with the target distribution.",
-      "url": "http://arxiv.org/abs/2611.18499v1",
+      "id": "2611.21510v1",
+      "title": "Gaia as a 0.1 arcsec point-source survey across the sky: dynamical scene reconstruction from one-dimensional scans",
+      "summary": "Gaia has observed every detected source on the sky 50 to 100 times, each time through a window of about 1 by 2 arcseconds at a different scan angle. The resulting one-dimensional flux profiles to be released in Gaia DR4 encode the two-dimensional arrangement of nearby point sources at ~0.1 arcsecond resolution. Repeated observations also constrain their relative motion. We present a method to model the scene with a mixture of moving point sources. Complementing Gaia DPAC's source-environment reconstruction, our approach focuses on close, blended companions and models their relative motion. We first fit each window with a few point sources and obtain their along-scan positions. We then triangulate these positions from different scan angles to identify candidate sources on the sky. A joint forward model of all windows measures positions, fluxes, relative proper motions, and parallax differences, even for blended components. In simulations, we recover companions at separations smaller than the instrumental profile width. For a moving companion at ~75 mas separation with a flux ratio of ~0.2, we obtain a separation precision of ~0.1 mas and a relative proper-motion precision of ~0.1 mas/yr per component, even in a scene contaminated by a third source. These precisions assume a known instrumental profile and independent Gaussian noise. We also recover differential parallax for a chance-aligned source. Modeling nearby contaminants prevents significant biases. With a Gaia-like instrumental profile, sampling and scan law, we show a sensitivity of ~5 mag in contrast at separations of 50-150 mas, and we discuss its dependence on the color term of Gaia's line-spread function. The method could extend the census of close companions and provide relative astrometry, and so dynamical information, along short orbital arcs. External measurements could also guide retrospective searches in Gaia's windows.",
+      "url": "http://arxiv.org/abs/2611.21510v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Keheng Zhu",
-        "Yuri A. Omelchenko"
+        "Sahar Shahaf",
+        "David W. Hogg",
+        "Kareem El-Badry",
+        "Hans-Walter Rix"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18487v1",
-      "title": "Precise Deep-Learning Reconstruction of Galaxy Cluster Mass Maps and Substructures from Optical Observations",
-      "summary": "Accurately mapping the total mass distribution within galaxy clusters, including dark matter, is fundamental to understanding structure formation and constraining cosmological parameters. Conventional mass-mapping techniques rely predominantly on gravitational lensing and often produce smooth mass distributions based on analytical profiles, potentially missing important internal substructures. We introduce a complementary, simulation-based inference approach to reconstruct detailed galaxy cluster mass maps and resolve their internal substructures directly from optical imaging. We trained deep learning models on realistic hydrodynamical simulations of galaxy clusters to infer their mass distributions from optical observations. We subsequently applied this framework to observations of real galaxy clusters obtained with the Hubble Space Telescope (HST) as part of the Cluster Lensing And Supernova survey with Hubble (CLASH) programme. The reconstructed mass maps successfully reproduce the overall shapes and radial mass profiles of the CLASH clusters, showing strong agreement with independent gravitational lensing measurements. Furthermore, the subhalo mass functions derived from the reconstructed maps exhibit power-law behaviour broadly consistent with predictions from numerical simulations. Our results demonstrate that combining optical imaging with deep learning provides a scalable and physically meaningful approach to mapping galaxy cluster mass distributions. This framework opens a new avenue for exploiting upcoming wide-field imaging surveys to systematically investigate dark matter substructures across large cluster samples, complementing traditional gravitational lensing techniques. Moreover, the model is inherently flexible and can incorporate multi-wavelength observations, including X-ray and Sunyaev--Zel'dovich data, to further improve total mass predictions.",
-      "url": "http://arxiv.org/abs/2611.18487v1",
+      "id": "2611.21468v1",
+      "title": "The JWST Sub-Jupiters Survey: Observed Sensitivities to the Wide-Separation, Cold, Sub-Jupiter Exoplanet Population",
+      "summary": "We present a sensitivity analysis of three recent JWST direct imaging programs (GO-4050, GO-5835, and SURVEY-6005) designed to build a demographic study of sub-Jupiter mass ($0.1 - 1$ M$_{\\mathrm{J}}$) exoplanets in nearby young associations and moving groups. We find that these programs are sensitive to sub-Saturn to Jupiter mass exoplanets with effective temperature (T$_\\mathrm{eff}$) as low as $\\lesssim 250$ K, already at $\\sim 2$ arcsec. A comparison with the SHINE survey confirms that the improvements in mass sensitivity provided by JWST high-contrast imaging surveys outpace current ground observation for masses $\\lesssim 1$ M$_{\\mathrm{J}}$ and separations between $\\sim20-500$ au, opening up a novel parameter space to explore. Overall, this analysis provides a robust framework for interpreting future exoplanet detections. By correlating photometrically derived properties (e.g. mass, $T_{\\mathrm{eff}}$, and separation) with theoretical model predictions, we show how the access to potentially low detectable masses (sub-Saturn to Jupiter) strongly depends on the expected atmospheric chemistry of the exoplanet population.",
+      "url": "http://arxiv.org/abs/2611.21468v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Atulit Srivastava",
-        "Weiguang Cui",
-        "Daniel de Andres",
-        "Guillaume Bonnet"
+        "Giovanni M. Strampelli",
+        "Aarynn L. Carter",
+        "Beth Biller",
+        "Clémence Fontanive"
       ],
       "kind": "paper"
     }
   ],
   "quantum": [
     {
-      "id": "2611.18552v1",
-      "title": "Real-time simulation of scattering in $φ^4$ theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts",
-      "summary": "Probing real-time dynamics is essential for understanding non-perturbative scattering and interactions in quantum field theory. A common challenge in real-time simulation is preparing accurate asymptotic incoming states. Through efficiently solvable eigenvalue problems, we jointly optimize a superposition of single particle momentum eigenstates and a single site interpolating operator to maximize preparation fidelity from the interacting vacuum. This leads to a localized excitation in the interacting theory analogous to a position eigenstate. Weighted sums of the resulting interpolating operator over lattice sites prepare wave packets of arbitrary spatial extent. To ensure that this construction produces the correct continuum limit, relative phases among single particle momentum eigenstates in this superposition are calibrated using a relation derived from Lorentz symmetry. Analyzing single particle wave packet propagation through the position space profile reveals oscillatory Airy distortions, which originate from interference between saddle point contributions at different momenta that share the same lattice group velocity. These oscillations systematically weaken when approaching the continuum limit, and reliable regimes are identified as a function of simulation time and wave packet momentum profile. Two-particle scattering simulations in interacting scalar field theory are also implemented, revealing artificial inelasticity arising from coarse local field digitization or deviation from the Nyquist-Shannon sampling point. With these artifacts under control, present simulations provide emerging evidence for physical inelastic processes in $φ^4$ theory. The constructions introduced in this work may provide new understanding of state preparation for the quantum simulation of scattering.",
-      "url": "http://arxiv.org/abs/2611.18552v1",
+      "id": "2611.21609v1",
+      "title": "Double quantum dots as dynamical impurities in one-dimensional transport",
+      "summary": "We study single-electron scattering in a tight-binding chain capacitively coupled to double quantum dots, which act as dynamical two-level-system impurities with electrically tunable level splittings. For a single impurity, we solve the scattering problem exactly and show Feshbach-like perfect elastic reflection, whose resonant condition distinguishes the initial two-level state. For several impurities in a strongly reflecting chain, transmission peaks at an intermediate mean level splitting. At small splittings, energy exchange with the impurities can weaken constructive interference between backscattered paths, consistent with the initial rise in transmission. As excitation channels close, virtual transitions can enhance reflection and drive transmission below its purely elastic value $T_0$. At larger splittings, these virtual processes weaken and transmission approaches $T_0$. We discuss how gate-controlled transmission measurements in quantum-dot arrays could test these predictions.",
+      "url": "http://arxiv.org/abs/2611.21609v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Boyu Gao",
-        "Natalie Klco"
+        "Yang-Zhi Chou"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18510v1",
-      "title": "Complex fluid flow dynamics by bright scattershot boson sampling",
-      "summary": "Boson sampling machines have become a fruitful tool for establishing new concepts, which connect fundamental physics with computer science applications. Here, we exploit the intrinsically high-dimensional correlations generated by the measurement outcomes of a multiphoton boson sampling machine and demonstrate how a reconfigurable architecture can be programmed to autonomously model the time evolution of nonlinear dynamical systems that describe complex fluid flows. By extending on the original scattershot boson sampling (SBS) scheme to include higher photon number components -- a scheme which we label bright scattershot boson sampling (BSBS) --- this scheme overcomes scaling issues inherent to SBS-based schemes by utilizing all randomly generated input photon number distributions. We illustrate the capability of this scheme for two complex fluid-flow models: an eight-dimensional Lorenz-type model of two-dimensional thermally driven convection and a 16-dimensional model of global atmospheric circulation. Using a digital twin of the BSBS architecture based on multiphoton statistics, we show that the photonic approach accurately reproduces the temporal dynamics of both systems while being resilient to photon losses of up to 50 per cent. We also verified that the BSBS case outperforms a comparable run with coherent light. Moreover, its prediction horizon exceeds that of a classical reservoir-computing model with the same query complexity. These results highlight the potential of near-term photonic quantum computing for addressing relevant real-world tasks on noisy intermediate-scale devices.",
-      "url": "http://arxiv.org/abs/2611.18510v1",
+      "id": "2611.21578v1",
+      "title": "Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction",
+      "summary": "Scaling fault-tolerant quantum error correction (QEC) requires suppressing errors in both space and time, yet standard logical memory experiments primarily probe spatial faults. Here, we use a 105-qubit Willow superconducting quantum processor to realize and scale the surface code stability experiment, which is alternatively sensitive to temporal error chains. Scaling from patch sizes of $3 \\times 3$ to $7 \\times 7$, we realize a timelike block suppression factor of $μ_T = 1.47 \\pm 0.25$, demonstrating the ability to maintain temporal error suppression as the number of qubits increases. By extending the stability experiment for many cycles, we uncover a sum-of-exponentials behavior in error suppression caused by a temporally correlated error: data-qubit heating to the third excited state $|3\\rangle$. We fully capture this effect with a parameter-free, device-level leakage model incorporating higher-state transport during syndrome extraction cycles. To suppress this error, we develop and realize a walking stability circuit, reaching a logical error probability floor of $\\le 3.20\\times 10^{-8}$ at 60 cycles---two orders of magnitude below the standard construction---and limited by ionizing radiation error bursts. Finally, by adaptively terminating syndrome extraction based on decoder confidence in an offline analysis, we reduce spacetime logical error by 38% and time overhead by 34% compared to the optimal fixed-cycle strategy.",
+      "url": "http://arxiv.org/abs/2611.21578v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Robert Schade",
-        "Shailendra K. Rathor",
-        "Tim J. Bartley",
-        "Benjamin Brecht"
+        "Alec Eickbusch",
+        "Nick Noll",
+        "Michael Newman",
+        "Matt McEwen"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18504v1",
-      "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
-      "summary": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects. We formulate this problem as agentic evolutionary program synthesis, wherein a large language model, leveraging its pretraining knowledge and tool-use proficiency, and guided by a circuit verifier, evolves a program that defines a Clifford circuit for a wide range of curated tasks such as logical state preparation, logical gate design, and logical routines such as code-switching, code growth, etc. Our approach consistently finds fault-tolerant circuits for all of these tasks, each verified by an exhaustive check over faults.",
-      "url": "http://arxiv.org/abs/2611.18504v1",
+      "id": "2611.21567v1",
+      "title": "Peak state transfer in trees and the cost of distance",
+      "summary": "There is peak state transfer between vertices $u$ and $v$ in a graph $G$ if there exists a time $t$ for which $|(\\mathrm{e}^{\\mathrm i t M})_{u,v}|$ saturates the triangle inequality imposed by its spectral decomposition and $M$ is either the adjacency or Laplacian matrix. We show that peak state transfer at distance $d$ requires $\\frac{d^3}{24}(1 + o(1))$ edges in the adjacency case, $Ω(d^2)$ edges in the Laplacian case, and that the leading coefficient in the former is tight. We find a family of graphs with Laplacian peak state transfer at distance $d$ and $Θ(d^5)$ edges, showing that peak state transfer is achievable in a polynomial graph size. In contrast, Laplacian perfect state transfer costs at least $Ω(2^{d/2})$ edges when the distance partition of vertices around one vertex is almost equitable. Finally, we show that Laplacian peak state transfer in trees requires $Ω(d!)$ edges, and we characterize all trees of diameter $\\leq 4$ admitting Laplacian peak state transfer, thus answering a pair of questions posed by Coutinho, Guo, and Schmeits.",
+      "url": "http://arxiv.org/abs/2611.21567v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Aritra Lahiri",
-        "Florian Marquardt"
+        "Andrew Osborne",
+        "Andrew A. Houck"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18503v1",
-      "title": "Solution of the Qubit Marginal Problem from Fermionic Representability",
-      "summary": "Whether local reduced states are compatible with a global quantum state---the quantum marginal problem---is central to quantum information and simulation. Here we present a solution to the ensemble marginal problem for qubits based on the representability theory of fermions. Encoding each qubit as one fermion in two orbitals, we prove that the representable qubit marginals form an exposed face of the set of $N$-representable fermionic reduced density matrices, selected by the vanishing of every site-occupation variance. Complete hierarchies of fermionic representability conditions therefore transfer exactly to qubits. Applications to frustrated Heisenberg and transverse-field Ising rings show that the $(2,3)$-positivity conditions are exact at the Majumdar--Ghosh point and accurate to about 0.5% at criticality. Because the conditions hold for any quantum state, they also provide a framework for mitigating measurement errors on qubit-based quantum devices.",
-      "url": "http://arxiv.org/abs/2611.18503v1",
+      "id": "2611.21560v1",
+      "title": "Optimal Quantum Sensing Algorithms for Discrete-Frequency Spectroscopy",
+      "summary": "Spectroscopy is a versatile tool that drives scientific discovery and underpins modern technologies. Quantum sensing offers promising opportunities to advance spectroscopy through enhanced sensitivity and spectral and spatial resolution. However, existing approaches largely focus on improving general measurement capabilities, often overlooking the structure of specific sensing tasks and leaving potential performance gains untapped. Here, we develop an algorithmic approach to quantum sensing tailored to various spectroscopic tasks, providing new avenues for improvement. Specifically, we consider general time-varying signals supported on a known set of $N$ candidate frequencies, a setting we call discrete-frequency spectroscopy. We formulate three types of practically motivated sensing tasks---Detection, Search, and Learning---that require progressively more spectral information. For all tasks, we design optimal quantum sensing algorithms achieving a $\\sqrt{N}$ speedup over conventional frequency-scanning approaches. Optimal Detection and Search need only a single-qubit sensor under $π$-pulse control, whereas optimal Learning provably requires coherent processing with a quantum computer. End-to-end numerical simulations incorporating various experimental imperfections predict up to two-orders-of-magnitude speedup in Detection. As an example, we analyze the feasibility of our Detection and Search algorithms for real-world molecular screening based on state-of-the-art nitrogen-vacancy centers. We also show how quantum-computing-enhanced Learning enables wireless communication in a weak-signal regime where conventional methods fail. Our results establish a practical route toward realizing quantum advantages via designing task-specific sensing algorithms.",
+      "url": "http://arxiv.org/abs/2611.21560v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "David A. Mazziotti"
+        "Yu-Jie Liu",
+        "Richard R. Allen",
+        "Ruohan Shen",
+        "Bingtian Ye"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18489v1",
-      "title": "Dissipation as a Resource for Entanglement via High-Spin Mediator Purification",
-      "summary": "We study entanglement generation between two spin qubits mediated by a single, thermally mixed, high-spin ($S=5/2$) magnetic impurity, using the Lindblad master equation to compare coherent and dissipative control of the mediator. We show that no coherent drive, however strong or resonant, can purify the mediator beyond its thermal value --- a direct consequence of unitary evolution exactly preserving state purity --- while a dissipative channel purifies it up to the limit set by the optical pumping cycle itself, $\\mathrm{Tr}[ρ_M^2]\\approx0.8$. Modeling this channel with rates fixed by the measured optical pumping of a single Mn spin, we find that the entanglement it enables is not monotonic in the pump strength: it peaks at a finite rate and then decreases, since the same channel leaks decoherence to the qubits through the coupling that mediates their entanglement. At the experimental pumping rate, a single $80$ns pulse purifies the mediator, the resulting polarization persists for a timescale three orders of magnitude longer than the entangling dynamics, and the first-recurrence negativity rises from $0.18$ to $0.64$ at $12$K, remaining above $0.6$ up to $30$K. These results establish dissipation, not as noise to be suppressed, but as the very resource that makes robust entanglement generation possible.",
-      "url": "http://arxiv.org/abs/2611.18489v1",
+      "id": "2611.21552v1",
+      "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
+      "summary": "Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train. In this work, we present a rigorous benchmark of variational quantum recurrent neural networks (QRNNs) on time series prediction tasks, focusing on two key capabilities: memory and nonlinear processing. We introduce a task-driven methodology that quantifies model capacity, enabling an intuitive and fair comparison across architectures, including classical recurrent baselines. We evaluate the proposed framework on two generic benchmark tasks and on a synthetic dataset describing a chaotic system. Overall, the quantum models achieve performance comparable to their classical counterparts, but classical models scale better with the memory size within the range studied. Notably, one QRNN variant shows higher average capacity on the task designed to jointly probe memory and nonlinear capacity. Moreover, our results show that quantum models offer better capacity when we are able to find a good parameter initialization. However, the increasing sensitivity to initialization leads to a lower probability of finding good solutions as the model size increases. These results provide a principled starting point for designing richer quantum recurrent architectures and for assessing where they may offer practical benefits.",
+      "url": "http://arxiv.org/abs/2611.21552v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Ellen Martins Fernandes",
-        "Fabricio Macedo de Souza"
+        "José Daniel Viqueira",
+        "Andrés Gómez",
+        "David Mera"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18476v1",
-      "title": "Beyond Blossom: Accelerating MWPM Decoding for Surface Codes With Local Predecoding and Architecture-Aware Optimizations",
-      "summary": "Minimum-weight perfect matching (MWPM) is widely used to decode surface codes, but its computational cost increases with code distance. We present Beyond Blossom, a state-of-the-art CPU-based MWPM decoder for surface codes. It combines algorithmic optimization through local predecoding, architecture-aware optimization, and pipeline-wide parallelism to reduce matching workload and execution overhead while preserving MWPM optimality. Across rotated surface codes with distances 9-33 and circuit-level physical error rates of 0.05%-0.3%, on a single CPU core, Beyond Blossom achieves a 4.23$\\times$ geometric-mean speedup and up to 5.58$\\times$ speedup over Sparse Blossom in PyMatching. At distance 33 and a physical error rate of 0.1%, with 8 CPU cores, decoding a block of 33 measurement rounds takes 21.40 $μ$s on average, equivalent to 0.65 $μ$s per round.",
-      "url": "http://arxiv.org/abs/2611.18476v1",
+      "id": "2611.21546v1",
+      "title": "The speed limit of gravitational entanglement and the cost of noise",
+      "summary": "Is gravity quantum? A proposed test lets two small masses, each in a superposition of two places, become entangled through their mutual gravity. Gravity is weak, so the masses must stay coherent for seconds while random forces disturb them. Here we ask how fast gravity can entangle two masses, and what noise costs. Without noise we find the maximum rate exactly: it falls as the inverse cube of the separation, and two positions per mass achieve it. Above a noise level set by the masses and their separation, gravity's leading pull can be imitated by classical signals, and every strategy is limited to a rate falling at least as the inverse fourth power. Exact, continuous error correction shields the masses from noise but hides them from each other: the best rate falls as the inverse seventh power, and six positions on a hexagon come within 10% of it at large separation.",
+      "url": "http://arxiv.org/abs/2611.21546v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Jiayu Fu",
-        "Zirong Shen",
-        "Lin Gan",
-        "Yiming Zhang"
+        "Ekta Panwar",
+        "Anubhav Chaturvedi"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18457v1",
-      "title": "Symmetry-Controlled Quantum State Transfer in Poly-bi-[8]-annulenylene: From Heisenberg to Hubbard Dynamics",
-      "summary": "We investigate quantum state transfer in the poly-bi-[8]-annulenylene lattice using isotropic Heisenberg and Hubbard models. For a 16-site lattice, reflection symmetry separates the single-excitation Hamiltonian into independent triplet and singlet sectors, allowing analytical determination of the energy spectra. Although perfect state transfer is forbidden for positive couplings, appropriately chosen coupling ratios enable pretty-good transfer with arbitrarily high fidelity. Remarkably, the triplet transfer probability is independent of the interchain rung coupling, while singlet transfer can be selectively enhanced or suppressed, enabling symmetry-selective quantum transport without time-dependent control. Extending the analysis to the Hubbard model, we show that the Heisenberg transfer dynamics emerge in the strong-interaction limit, while finite interactions delay all high-fidelity transfer peaks of a symmetry sector by the same fraction of their transfer time, set by the spectrum, and reduce the peak fidelity, even at the corrected time, by an amount that grows with the transfer time. These findings are relevant to future quantum-network architectures, where symmetry-controlled state transfer could provide a building block for connecting quantum memories and emitter-based interfaces within quantum nodes. Overall, our results demonstrate how molecular network geometry and symmetry can be exploited to engineer and control quantum-state transport in interacting spin systems, providing a theoretical framework for quantum information transfer in molecular-inspired quantum architectures.",
-      "url": "http://arxiv.org/abs/2611.18457v1",
+      "id": "2611.21500v1",
+      "title": "Exponential Quantum Memory Advantage for Late-Graph Smoothness and Spectral Estimation",
+      "summary": "Graph signal processing tests how smoothly the decisions of next-generation massive sensor networks with $N$ nodes vary over their neighbour graph. Memory becomes the bottleneck when the neighbour graph arrives only after data erasure, a late-graph setting motivated by dispersed sensor networks and telemetry. We analyse three collection scenarios, reliable rounds, continuous broadcast and ordered capture, and test the Dirichlet energy $\\mathcal E_G=\\mathbf z^{\\mathsf T}\\mathbf L\\mathbf z/N$ of the fused decision map $\\mathbf z\\in\\{\\pm1\\}^N$, with late-graph Laplacian $\\mathbf L$, against two thresholds. Hidden Matching uses $O(\\log N)$ qubits on fused bits, but in reliable rounds and continuous broadcast, where nodes report $b$ sub-bits separately, a classical record buffer before it uses $O(N b)$ bits; classical methods need $Ω(\\sqrt N)$ bits in the worst case. The recently introduced Quantum Oracle Sketching builds quantum oracles from random data streams without storing them. We combine coherent loading of separately reported sub-bits, exact in reliable rounds and by Quantum Oracle Sketching in continuous broadcast, with nonlinear fusion and Hidden Matching readout. The register count $R$ does not grow with $N$, and the memory is $O(\\log N)$ logical qubits and classical bits, at fixed $b$, graph bounds, thresholds and error targets: an exponential memory advantage over every classical receiver and over Hidden Matching with that buffer. We prove unbiasedness in reliable rounds, preparation bounds in continuous broadcast, classical lower bounds and, for a planner-supplied multi-hop coefficient stream, spectral error bounds. Broadcast simulations match analytic averages at $N=1024$, without resolved bias growth up to $N=2^{20}$. Fault-tolerant hardware, gate rates and, in continuous broadcast, report counts remain open.",
+      "url": "http://arxiv.org/abs/2611.21500v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Adnan Jaljuli",
-        "Pablo Serra",
-        "Ammar Ali",
-        "Sabre Kais"
+        "Burhan Gülbahar"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.18448v1",
-      "title": "Learning observable propagation with sparse local moments",
-      "summary": "We propose a unified framework for predicting local moment dynamics in high-dimensional many-body systems from short-time trajectories. Thanks to the locality of the dynamics, we construct the transition moment matrices by projecting the Markov operator onto low-order connected-cluster basis functions supported near the target observable. Exploiting the spatial decay of time-lagged correlations, {these matrices} can be approximated in sparse-plus-low-rank form using trajectory samples, with computational cost scaling linearly in the system dimension and the number of trajectories. The learning error can be further reduced by correcting the memory effect induced by the Galerkin projection. We numerically demonstrate the effectiveness of the framework in extrapolating the dynamics of various many-body systems, including Langevin and Glauber dynamics for classical systems as well as Lindblad dynamics for open quantum systems. In addition, for a class of single-site Glauber dynamics, we establish error bounds for sparse-plus-low-rank compression and uniform-in-time bounds for connected-cluster approximation and observable propagation with compressed transition moment matrices.",
-      "url": "http://arxiv.org/abs/2611.18448v1",
+      "id": "2611.21490v1",
+      "title": "Entanglement distillation, nonlocal magic, and state sharing in an isospectral non-Hermitian bipartite model",
+      "summary": "An invertible nonunitary similarity deformation leaves a two-qubit Hamiltonian's spectrum unchanged while varying a selected normalized right eigenstate in the fixed physical inner product. We embed this state in a two-parameter maximally correlated family that includes local dephasing and noisy circuit preparation. Hashing and a matching diagonal relative-entropy bound give the exact distillable entanglement and the PPT comparison distances at every finite tensor power. Correlated PPT catalysts cannot improve the Bell-pair distillation rate. The optimized CHSH value is \\(2\\sqrt{1+t^2}\\): every state with nonzero coherence violates CHSH, while complete dephasing is separable. A calibrated finite-sample bound and two equal-fidelity preparations clarify which noise parameters determine the rate. For pure inputs, the binomial Schmidt spectrum gives logarithmic collectively optimized nonlocal magic with vanishing density, despite a positive entanglement density and extensive pairwise-frame magic. Fixed Clifford decoding gives six- and eight-copy CCZ concentration probabilities \\(P_6=\\frac12(1-2^{-\\mathcal M_γ})\\) and \\(P_8=1-2^{-\\mathcal M_γ}\\). The same family permits explicit swapping recursions, symmetry-resolved entanglement, and a comparison of qubit stabilizer and fermionic Gaussian resources. These calculations keep the relevant operation classes separate when comparing many-copy limits.",
+      "url": "http://arxiv.org/abs/2611.21490v1",
       "image": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Yuehaw Khoo",
-        "Bowen Li",
-        "Yuguan Wang",
-        "Siyao Yang"
+        "Chenhuan Wu"
       ],
       "kind": "paper"
     }
@@ -708,9 +697,9 @@
     "device": "default.qubit",
     "mode": "classical simulation of a quantum circuit",
     "title": "Two-qubit entanglement experiment",
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "description": "Prepare a parameterized qubit, apply a Hadamard gate, entangle the pair with CNOT, then estimate basis-state probabilities and the Pauli-Z expectation value.",
-    "theta_radians": 0.4814,
+    "theta_radians": 1.1951,
     "shots": 1000,
     "basis_states": [
       "|00⟩",
@@ -719,27 +708,36 @@
       "|11⟩"
     ],
     "probabilities": [
-      0.464,
-      0.458,
-      0.041,
-      0.037
+      0.347,
+      0.317,
+      0.158,
+      0.178
     ],
-    "z_expectation": 0.906,
-    "circuit_text": "0: ──RY(0.48)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
+    "z_expectation": 0.38,
+    "circuit_text": "0: ──RY(1.20)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
     "source": "PennyLane simulator",
     "url": "https://pennylane.ai/"
   },
   "daily_brief": [
-    "Space watch: NASA Science",
-    "Quantum watch: Real-time simulation of scattering in $φ^4$ theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts",
+    "Space watch: Rest-frame annihilation lines of $\\sim70$ GeV WIMPs in 23,000 stacked galaxy clusters",
+    "Quantum watch: Double quantum dots as dynamical impurities in one-dimensional transport",
     "Weather in Coimbatore: 28.7°C, partly cloudy."
   ],
   "source_status": {
-    "nasa_apod": true,
+    "nasa_apod": false,
     "arxiv_astro": true,
     "arxiv_quantum": true,
-    "weather": true,
+    "weather": false,
     "pennylane": true
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "NASA APOD",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "source": "Weather",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=20)"
+    }
+  ]
 }
