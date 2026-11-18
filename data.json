@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T09:20:51.226772+00:00",
-  "generated_for_date": "2026-11-17",
+  "updated_at": "2026-11-18T08:40:36.956182+00:00",
+  "generated_for_date": "2026-11-18",
   "status": "partial",
   "astro": [
     {
@@ -138,124 +138,131 @@
   ],
   "quantum": [
     {
-      "id": "2611.21609v1",
-      "title": "Double quantum dots as dynamical impurities in one-dimensional transport",
-      "summary": "We study single-electron scattering in a tight-binding chain capacitively coupled to double quantum dots, which act as dynamical two-level-system impurities with electrically tunable level splittings. For a single impurity, we solve the scattering problem exactly and show Feshbach-like perfect elastic reflection, whose resonant condition distinguishes the initial two-level state. For several impurities in a strongly reflecting chain, transmission peaks at an intermediate mean level splitting. At small splittings, energy exchange with the impurities can weaken constructive interference between backscattered paths, consistent with the initial rise in transmission. As excitation channels close, virtual transitions can enhance reflection and drive transmission below its purely elastic value $T_0$. At larger splittings, these virtual processes weaken and transmission approaches $T_0$. We discuss how gate-controlled transmission measurements in quantum-dot arrays could test these predictions.",
-      "url": "http://arxiv.org/abs/2611.21609v1",
+      "id": "2611.23227v1",
+      "title": "Expressivity of two-dimensional Gaussian fermion tensor network states",
+      "summary": "Tensor network states (TNS) provide a family of efficiently compressed approximations to physically relevant many-body quantum states. An important quantity that characterizes the computational resources required by a TNS is its bond dimension. While in one dimension an area law for the Renyi-0 entropy guarantees an exact matrix product state representation with a bond dimension independent of the system size, an analogous statement does not hold for general states in two dimensions (2D). This leaves open the question of how the expressivity of 2D TNS is related to the entanglement properties of the states they represent. In this work, we focus on two families of 2D translation-invariant Gaussian fermionic states: single-band BCS superconductors and half-filled two-band insulators (including semimetals). For each family, we prove that an area law for the Renyi-0 entropy is equivalent to having an exact Gaussian fermionic TNS representation with a finite bond dimension determined by the Renyi-0 entropy. We also establish equivalent characterizations in terms of compactly supported Wannier-type orbitals and the momentum-space wavefunction, relating the spatial extent of these orbitals and the structure of the wavefunction to the required bond dimension.",
+      "url": "http://arxiv.org/abs/2611.23227v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Yang-Zhi Chou"
+        "Pok Man Tam",
+        "William Musk",
+        "Zhehao Dai"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21578v1",
-      "title": "Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction",
-      "summary": "Scaling fault-tolerant quantum error correction (QEC) requires suppressing errors in both space and time, yet standard logical memory experiments primarily probe spatial faults. Here, we use a 105-qubit Willow superconducting quantum processor to realize and scale the surface code stability experiment, which is alternatively sensitive to temporal error chains. Scaling from patch sizes of $3 \\times 3$ to $7 \\times 7$, we realize a timelike block suppression factor of $μ_T = 1.47 \\pm 0.25$, demonstrating the ability to maintain temporal error suppression as the number of qubits increases. By extending the stability experiment for many cycles, we uncover a sum-of-exponentials behavior in error suppression caused by a temporally correlated error: data-qubit heating to the third excited state $|3\\rangle$. We fully capture this effect with a parameter-free, device-level leakage model incorporating higher-state transport during syndrome extraction cycles. To suppress this error, we develop and realize a walking stability circuit, reaching a logical error probability floor of $\\le 3.20\\times 10^{-8}$ at 60 cycles---two orders of magnitude below the standard construction---and limited by ionizing radiation error bursts. Finally, by adaptively terminating syndrome extraction based on decoder confidence in an offline analysis, we reduce spacetime logical error by 38% and time overhead by 34% compared to the optimal fixed-cycle strategy.",
-      "url": "http://arxiv.org/abs/2611.21578v1",
+      "id": "2611.23224v1",
+      "title": "From nonlocal correlations to local symmetry breaking: Asymmetry dynamics of crosscap states",
+      "summary": "Under unitary dynamics preserving a global symmetry, bipartite entanglement typically grows while an initially broken symmetry is locally restored. Here, we show that this conventional scenario can be reversed when symmetry-breaking coherence is initially encoded in long-range entanglement. We investigate this phenomenon in a family of charge deformed crosscap states, characterized by antipodal entangled pairs with tunable entanglement and symmetry breaking. We first characterize their static properties, finding a Page-like entanglement profile and an entanglement asymmetry that vanishes for subsystems smaller than half the system size, but grows logarithmically for larger subsystems. For symmetric subsystems, we also analyze the symmetry-resolved entanglement and investigate how it evolves as the subsystem is continuously deformed away from a symmetric partition. Following a quench to a free-fermion tight-binding chain, we uncover an unconventional dynamics in which the entanglement entropy decreases whereas the entanglement asymmetry increases, so that initially symmetric subsystems dynamically develop local symmetry breaking. This behavior is quantitatively captured by a quasiparticle picture describing the propagation of antipodal correlations. Our results reveal how symmetry-preserving dynamics can redistribute globally encoded symmetry-breaking coherence, making it locally accessible, and establish the initial entanglement structure as a key ingredient in determining the fate of local symmetries out of equilibrium.",
+      "url": "http://arxiv.org/abs/2611.23224v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Alec Eickbusch",
-        "Nick Noll",
-        "Michael Newman",
-        "Matt McEwen"
+        "Konstantinos Chalas",
+        "Pasquale Calabrese",
+        "Colin Rylands"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21567v1",
-      "title": "Peak state transfer in trees and the cost of distance",
-      "summary": "There is peak state transfer between vertices $u$ and $v$ in a graph $G$ if there exists a time $t$ for which $|(\\mathrm{e}^{\\mathrm i t M})_{u,v}|$ saturates the triangle inequality imposed by its spectral decomposition and $M$ is either the adjacency or Laplacian matrix. We show that peak state transfer at distance $d$ requires $\\frac{d^3}{24}(1 + o(1))$ edges in the adjacency case, $Ω(d^2)$ edges in the Laplacian case, and that the leading coefficient in the former is tight. We find a family of graphs with Laplacian peak state transfer at distance $d$ and $Θ(d^5)$ edges, showing that peak state transfer is achievable in a polynomial graph size. In contrast, Laplacian perfect state transfer costs at least $Ω(2^{d/2})$ edges when the distance partition of vertices around one vertex is almost equitable. Finally, we show that Laplacian peak state transfer in trees requires $Ω(d!)$ edges, and we characterize all trees of diameter $\\leq 4$ admitting Laplacian peak state transfer, thus answering a pair of questions posed by Coutinho, Guo, and Schmeits.",
-      "url": "http://arxiv.org/abs/2611.21567v1",
+      "id": "2611.23213v1",
+      "title": "Modeling quantum information scrambling in realistic protein NMR experiments",
+      "summary": "Out-of-time-order correlators (OTOCs) are important probes of operator spreading and information scrambling, and have recently been proposed as a means of extracting molecular structural information through nuclear magnetic resonance (NMR). Realizing this potential requires accurate modeling of OTOCs in complex molecular environments within experimentally relevant settings. Here, we develop an end-to-end computational pipeline connecting molecular structures to OTOC dynamics in protein systems. Our framework incorporates molecular motion through molecular dynamics simulations, orientational averaging appropriate for powder samples, and spin-network truncation, using an experimentally realizable double-quantum effective Hamiltonian. We apply this framework to a dataset of over 350 carbon-carbon spin pairs across 10 protein systems, spanning interspin distances of 5-17 A. We find that OTOC arrival times scale approximately linearly with interspin distance, revealing system-dependent operator-spreading velocities that enable correlations to propagate over extended distances within milliseconds. Our sensitivity analysis further shows that individual OTOCs predominantly constrain a single structural parameter, primarily associated with interspin distance. Together, these findings highlight the potential of OTOCs to probe spatially extended spin correlations on timescales compatible with solid-state NMR experiments.",
+      "url": "http://arxiv.org/abs/2611.23213v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Andrew Osborne",
-        "Andrew A. Houck"
+        "Alec F. White",
+        "Joseph Haslehurst",
+        "Daniel R. Moberg",
+        "Justin Provazza"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21560v1",
-      "title": "Optimal Quantum Sensing Algorithms for Discrete-Frequency Spectroscopy",
-      "summary": "Spectroscopy is a versatile tool that drives scientific discovery and underpins modern technologies. Quantum sensing offers promising opportunities to advance spectroscopy through enhanced sensitivity and spectral and spatial resolution. However, existing approaches largely focus on improving general measurement capabilities, often overlooking the structure of specific sensing tasks and leaving potential performance gains untapped. Here, we develop an algorithmic approach to quantum sensing tailored to various spectroscopic tasks, providing new avenues for improvement. Specifically, we consider general time-varying signals supported on a known set of $N$ candidate frequencies, a setting we call discrete-frequency spectroscopy. We formulate three types of practically motivated sensing tasks---Detection, Search, and Learning---that require progressively more spectral information. For all tasks, we design optimal quantum sensing algorithms achieving a $\\sqrt{N}$ speedup over conventional frequency-scanning approaches. Optimal Detection and Search need only a single-qubit sensor under $π$-pulse control, whereas optimal Learning provably requires coherent processing with a quantum computer. End-to-end numerical simulations incorporating various experimental imperfections predict up to two-orders-of-magnitude speedup in Detection. As an example, we analyze the feasibility of our Detection and Search algorithms for real-world molecular screening based on state-of-the-art nitrogen-vacancy centers. We also show how quantum-computing-enhanced Learning enables wireless communication in a weak-signal regime where conventional methods fail. Our results establish a practical route toward realizing quantum advantages via designing task-specific sensing algorithms.",
-      "url": "http://arxiv.org/abs/2611.21560v1",
+      "id": "2611.23207v1",
+      "title": "Local interference algorithms for observables in large random circuits",
+      "summary": "In quantum dynamics, it is generally believed that interference effects lead to a sign problem for classical Monte Carlo sampling methods, rendering sampling ineffective. In this paper we show that this is generically not the case for the task of simulating the evolution of observables in random instances of circuit dynamics. Specifically, we consider two examples of observables which give large signals despite the randomness of the dynamics: first order out-of-time-ordered correlators (OTOCs) in unstructured random circuits without conservation laws and time-ordered charge-charge correlators (TOCs) in particle number-preserving random circuits. We show that these observables can be approximated by classical stochastic processes and that these approximations can be systematically improved with a series expansion that incorporates coherent corrections associated with clusters of gates. We design and implement algorithms that combine Monte Carlo sampling and tensor network methods to approximate the series. We observe numerically that the computational complexity of approximating TOCs and OTOCs scales polynomially in the circuit size and in the target precision. We study the accuracy of these algorithms by directly mapping their ensemble-averaged errors to partition functions of replica statistical models, allowing for perturbative analysis and numerics in $1$d brickwork geometries. Our theoretical analysis explains the empirical observation of polynomial complexity of these algorithms and is consistent with polynomial complexity extending to arbitrarily small precision and to the thermodynamic limit.",
+      "url": "http://arxiv.org/abs/2611.23207v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Yu-Jie Liu",
-        "Richard R. Allen",
-        "Ruohan Shen",
-        "Bingtian Ye"
+        "Philippe Suchsland",
+        "Brayden Ware",
+        "Vladislav D. Kurilovich",
+        "Vadim Smelyanskiy"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21552v1",
-      "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
-      "summary": "Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train. In this work, we present a rigorous benchmark of variational quantum recurrent neural networks (QRNNs) on time series prediction tasks, focusing on two key capabilities: memory and nonlinear processing. We introduce a task-driven methodology that quantifies model capacity, enabling an intuitive and fair comparison across architectures, including classical recurrent baselines. We evaluate the proposed framework on two generic benchmark tasks and on a synthetic dataset describing a chaotic system. Overall, the quantum models achieve performance comparable to their classical counterparts, but classical models scale better with the memory size within the range studied. Notably, one QRNN variant shows higher average capacity on the task designed to jointly probe memory and nonlinear capacity. Moreover, our results show that quantum models offer better capacity when we are able to find a good parameter initialization. However, the increasing sensitivity to initialization leads to a lower probability of finding good solutions as the model size increases. These results provide a principled starting point for designing richer quantum recurrent architectures and for assessing where they may offer practical benefits.",
-      "url": "http://arxiv.org/abs/2611.21552v1",
+      "id": "2611.23196v1",
+      "title": "Nonlinearity-preserving quantum simulation of flows in the early fault-tolerant regime",
+      "summary": "Ensemble prediction of nonlinear dynamics propagates a probability density whose linear transport equation retains the nonlinear drift, but grid-dependent circuit costs leave end-to-end feasibility in early fault-tolerant quantum computing unresolved. We couple polynomial reduced-order models fitted by sparse identification of nonlinear dynamics to Walsh-synthesized Koopman-von Neumann (KvN) transport and surface-code resource estimation. At fixed model dimension and drift degree, per-step transport rotation counts scale polylogarithmically with cells per reduced coordinate. Balancing model accuracy against circuit costs makes reduced-model polynomial degree a design variable for early fault-tolerant quantum simulation. For a cylinder wake approaching saturation, preparation, propagation and sampling to 1% relative root-mean-square field error against the radial model are estimated to take 1.62 h on about 560,000 physical qubits. Estimated three-coordinate wake runtimes span hours to weeks below one million qubits. IBM hardware experiments demonstrate nonlinear radial KvN transport for this wake, using reference circuits to mitigate noise.",
+      "url": "http://arxiv.org/abs/2611.23196v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "José Daniel Viqueira",
-        "Andrés Gómez",
-        "David Mera"
+        "Hansol Noh",
+        "Unam Oh",
+        "Sangkyu Baek",
+        " Doyeol"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21546v1",
-      "title": "The speed limit of gravitational entanglement and the cost of noise",
-      "summary": "Is gravity quantum? A proposed test lets two small masses, each in a superposition of two places, become entangled through their mutual gravity. Gravity is weak, so the masses must stay coherent for seconds while random forces disturb them. Here we ask how fast gravity can entangle two masses, and what noise costs. Without noise we find the maximum rate exactly: it falls as the inverse cube of the separation, and two positions per mass achieve it. Above a noise level set by the masses and their separation, gravity's leading pull can be imitated by classical signals, and every strategy is limited to a rate falling at least as the inverse fourth power. Exact, continuous error correction shields the masses from noise but hides them from each other: the best rate falls as the inverse seventh power, and six positions on a hexagon come within 10% of it at large separation.",
-      "url": "http://arxiv.org/abs/2611.21546v1",
+      "id": "2611.23193v1",
+      "title": "Performance analysis of a Rydberg atom THz radiometer concept",
+      "summary": "THz receiver technology lies between electronics and photonics; as such, its implementation is not as mature. This warrants investigation into alternative THz receivers such as Rydberg atom sensors, which are highly susceptible to electric fields. In particular, the conversion architecture has been demonstrated to coherently transduce thermal radiation. This system offers room-temperature operation and does not necessarily require a local oscillator at the frequency of the input signal. We provide an assessment of the feasibility of such sensors for THz radiometry within the context of Earth observation.",
+      "url": "http://arxiv.org/abs/2611.23193v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Ekta Panwar",
-        "Anubhav Chaturvedi"
+        "Richard J. Murchie",
+        "Petronilo Martin-Iglesias",
+        "Julian Hofmann",
+        "Christophe Buisset"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21500v1",
-      "title": "Exponential Quantum Memory Advantage for Late-Graph Smoothness and Spectral Estimation",
-      "summary": "Graph signal processing tests how smoothly the decisions of next-generation massive sensor networks with $N$ nodes vary over their neighbour graph. Memory becomes the bottleneck when the neighbour graph arrives only after data erasure, a late-graph setting motivated by dispersed sensor networks and telemetry. We analyse three collection scenarios, reliable rounds, continuous broadcast and ordered capture, and test the Dirichlet energy $\\mathcal E_G=\\mathbf z^{\\mathsf T}\\mathbf L\\mathbf z/N$ of the fused decision map $\\mathbf z\\in\\{\\pm1\\}^N$, with late-graph Laplacian $\\mathbf L$, against two thresholds. Hidden Matching uses $O(\\log N)$ qubits on fused bits, but in reliable rounds and continuous broadcast, where nodes report $b$ sub-bits separately, a classical record buffer before it uses $O(N b)$ bits; classical methods need $Ω(\\sqrt N)$ bits in the worst case. The recently introduced Quantum Oracle Sketching builds quantum oracles from random data streams without storing them. We combine coherent loading of separately reported sub-bits, exact in reliable rounds and by Quantum Oracle Sketching in continuous broadcast, with nonlinear fusion and Hidden Matching readout. The register count $R$ does not grow with $N$, and the memory is $O(\\log N)$ logical qubits and classical bits, at fixed $b$, graph bounds, thresholds and error targets: an exponential memory advantage over every classical receiver and over Hidden Matching with that buffer. We prove unbiasedness in reliable rounds, preparation bounds in continuous broadcast, classical lower bounds and, for a planner-supplied multi-hop coefficient stream, spectral error bounds. Broadcast simulations match analytic averages at $N=1024$, without resolved bias growth up to $N=2^{20}$. Fault-tolerant hardware, gate rates and, in continuous broadcast, report counts remain open.",
-      "url": "http://arxiv.org/abs/2611.21500v1",
+      "id": "2611.23188v1",
+      "title": "Quantum amplification with a linear quantum coupler",
+      "summary": "Josephson parametric amplifiers (JPAs) are essential components for quantum-limited microwave measurement, but their dynamic range is often constrained by Kerr and other pump-induced nonlinear effects. In this work, we systematically study the performance of a parametric amplifier based on the linear inductive coupler (LINC). Starting from the driven-circuit Hamiltonian, we derive the effective three-wave-mixing amplifier model, including leading flux-driven nonlinear corrections relevant to realistic operation. We analyze the resulting gain response, saturation behavior, and intermodulation distortion, comparing them with representative state-of-the-art JPA designs. Our results show that the symmetry-protected structure of the LINC suppresses static Kerr nonlinearity. Moreover, suitable circuit-parameter optimization can further reduce the dressed-squeezing and driven-Kerr effects, leading to considerable improvements in power-handling metrics. These results identify the LINC architecture as a promising platform for high-linearity Josephson parametric amplification.",
+      "url": "http://arxiv.org/abs/2611.23188v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Burhan Gülbahar"
+        "Changqing Wang",
+        "Yao Lu"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.21490v1",
-      "title": "Entanglement distillation, nonlocal magic, and state sharing in an isospectral non-Hermitian bipartite model",
-      "summary": "An invertible nonunitary similarity deformation leaves a two-qubit Hamiltonian's spectrum unchanged while varying a selected normalized right eigenstate in the fixed physical inner product. We embed this state in a two-parameter maximally correlated family that includes local dephasing and noisy circuit preparation. Hashing and a matching diagonal relative-entropy bound give the exact distillable entanglement and the PPT comparison distances at every finite tensor power. Correlated PPT catalysts cannot improve the Bell-pair distillation rate. The optimized CHSH value is \\(2\\sqrt{1+t^2}\\): every state with nonzero coherence violates CHSH, while complete dephasing is separable. A calibrated finite-sample bound and two equal-fidelity preparations clarify which noise parameters determine the rate. For pure inputs, the binomial Schmidt spectrum gives logarithmic collectively optimized nonlocal magic with vanishing density, despite a positive entanglement density and extensive pairwise-frame magic. Fixed Clifford decoding gives six- and eight-copy CCZ concentration probabilities \\(P_6=\\frac12(1-2^{-\\mathcal M_γ})\\) and \\(P_8=1-2^{-\\mathcal M_γ}\\). The same family permits explicit swapping recursions, symmetry-resolved entanglement, and a comparison of qubit stabilizer and fermionic Gaussian resources. These calculations keep the relevant operation classes separate when comparing many-copy limits.",
-      "url": "http://arxiv.org/abs/2611.21490v1",
+      "id": "2611.23186v1",
+      "title": "Integral Tensor Isomorphism via Cubic Rings and Lattice Methods",
+      "summary": "We prove that isomorphism of integral $2\\times3\\times3$ tensors under $\\mathrm{GL}_2(\\mathbb{Z})\\times\\mathrm{GL}_3(\\mathbb{Z})\\times\\mathrm{GL}_3(\\mathbb{Z})$ is decidable in bounded-error quantum polynomial time. For a tensor $T=(A,B)$ with nonzero determinant form $\\det(xA-yB)$, we use the parametrization of Wood by balanced modules to reduce the isomorphism problem to principality tests for compatible lattices, and use the algorithms of Bley, Hofmann, and Johnston to solve this in BQP. When the determinant form vanishes identically, we get either an integral $2\\times2\\times2$ core, or a polynomial kernel vector of degree one or two. The linear-kernel case yields another compatible lattice problem, while the quadratic-kernel case reduces to a fixed system of polynomial congruences and unimodular lifting. A quantifier-elimination argument decides these congruences in deterministic polynomial time given the prime factorization of the modulus, which quantum integer factorization supplies. Finally, we show that zero padding preserves integral $2\\times2\\times2$ tensor isomorphism, yielding a polynomial-time reduction from real-quadratic principality to the identically singular $2\\times3\\times3$ problem.",
+      "url": "http://arxiv.org/abs/2611.23186v1",
       "image": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Chenhuan Wu"
+        "Thomas Huffstutler"
       ],
       "kind": "paper"
     }
@@ -697,9 +704,9 @@
     "device": "default.qubit",
     "mode": "classical simulation of a quantum circuit",
     "title": "Two-qubit entanglement experiment",
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "description": "Prepare a parameterized qubit, apply a Hadamard gate, entangle the pair with CNOT, then estimate basis-state probabilities and the Pauli-Z expectation value.",
-    "theta_radians": 1.1951,
+    "theta_radians": 1.2414,
     "shots": 1000,
     "basis_states": [
       "|00⟩",
@@ -708,24 +715,24 @@
       "|11⟩"
     ],
     "probabilities": [
-      0.347,
-      0.317,
-      0.158,
-      0.178
+      0.326,
+      0.339,
+      0.17,
+      0.165
     ],
-    "z_expectation": 0.38,
-    "circuit_text": "0: ──RY(1.20)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
+    "z_expectation": 0.328,
+    "circuit_text": "0: ──RY(1.24)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
     "source": "PennyLane simulator",
     "url": "https://pennylane.ai/"
   },
   "daily_brief": [
     "Space watch: Rest-frame annihilation lines of $\\sim70$ GeV WIMPs in 23,000 stacked galaxy clusters",
-    "Quantum watch: Double quantum dots as dynamical impurities in one-dimensional transport",
+    "Quantum watch: Expressivity of two-dimensional Gaussian fermion tensor network states",
     "Weather in Coimbatore: 28.7°C, partly cloudy."
   ],
   "source_status": {
     "nasa_apod": false,
-    "arxiv_astro": true,
+    "arxiv_astro": false,
     "arxiv_quantum": true,
     "weather": false,
     "pennylane": true
@@ -733,7 +740,11 @@
   "errors": [
     {
       "source": "NASA APOD",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=20)"
+      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
+    },
+    {
+      "source": "Astrophysics papers",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"
     },
     {
       "source": "Weather",
