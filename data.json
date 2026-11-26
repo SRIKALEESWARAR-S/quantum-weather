@@ -1,274 +1,256 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-25T09:56:01.597055+00:00",
-  "generated_for_date": "2026-11-25",
-  "status": "ok",
+  "updated_at": "2026-11-26T09:40:53.003562+00:00",
+  "generated_for_date": "2026-11-26",
+  "status": "partial",
   "astro": [
     {
-      "id": "nasa-apod-2026-11-25",
-      "title": "NASA Science",
-      "summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
-      "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-      "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+      "id": "2611.34910v1",
+      "title": "A comparison of two- and one-fluid dust solvers for dusty, supersonic turbulence",
+      "summary": "We model 3 and 10 $μ$m dust grains in supersonic, turbulent molecular cloud conditions to compare two different numerical methods solving dust coupled to gas through a drag term. One method models dust and gas as two separate species (two fluid) and the other the combination of dust and gas as a single mixture (one fluid) using the diffusion approximation. Simulations are performed in a 3D periodic box using the Phantom code. The gas probability distributions are consistent with a lognormal distribution for both methods and grain sizes. The dust distributions are different in the two methods, showing discrepancies particularly in regions of low density. The most significant difference between the two methods is in the dust-to-gas ratio distributions. Both methods peak at the mean dust-to-gas ratio of 0.01, but the two-fluid method has wider distributions than the one-fluid method suggesting excess dust concentration in dense filaments. Filaments are where the one-fluid method results are most accurate. The narrowing of the one-fluid distribution is also caused by the stopping time limiter used to maintain the terminal velocity approximation. This artificially makes the mixture more coupled in low-density regions. Our overall conclusion is that both methods are viable for the study of dust in molecular clouds, but that the correct method should be chosen based on the numerical Stokes number regime of the calculation to avoid numerical artifacts.",
+      "url": "http://arxiv.org/abs/2611.34910v1",
+      "image": "",
       "date": "2026-11-25",
-      "source": "NASA APOD",
-      "topic": "astro",
-      "kind": "image"
-    },
-    {
-      "id": "2611.33142v1",
-      "title": "VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey",
-      "summary": "We present strong-lensing models for the 57 galaxy clusters observed in Cycle 4 out of the 60 targeted by the JWST Vast Exploration for Nascent, Unexplored Sources (VENUS) program. Models for the remaining three clusters will be incorporated after their observations. The dataset comprises 5013 individual images, corresponding to 1733 multiply-imaged systems, of which 912 have spectroscopic redshift measurements and 227 are newly identified. Using this new wealth of observations, we construct parametric lens models with our $\\mathtt{AstroLensPy}$ software, reproducing the observed image positions with an average image-plane precision $Δ_{\\rm RMS}$ of $0.54''$. With a total imaging area of $576$ arcmin$^2$, VENUS offers the largest homogeneous set of cluster strong-lensing models to date. The clusters yield a combined area of $191$ arcmin$^{2}$ magnified by $|μ|\\geq3$ for a source $z_s=10$, for example, establishing the VENUS fields as a premier survey for high-redshift studies. Among our sample, the clusters MACS J0717.5+3745, RXC J0600.1-2007 and PLCK G287.0+32.9 display the largest Einstein radii ($\\geq 60''$) and magnified areas ($\\mathcal{A}_{z_s=10}^{|μ|\\geq3} \\geq 9$ arcmin$^2$) for a source $z_s=10$, and therefore constitute the most potent gravitational telescopes known to date. Finally, leveraging the statistical power of the sample, we derive scaling relations between various lensing observables (Einstein radius, magnified area, projected mass) and the SZ/X-ray-inferred cluster mass, $M_{500,c}$.",
-      "url": "http://arxiv.org/abs/2611.33142v1",
-      "image": "",
-      "date": "2026-11-24",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Joseph F. V. Allingham",
-        "Lukas J. Furtak",
-        "Miriam Golubchik",
-        "Ashish K. Meena"
+        "Narges Vadood",
+        "Terrence S. Tricco"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33103v1",
-      "title": "Self-arresting vortex rearrangements in pinned spinning-down superfluids",
-      "summary": "Superfluids, in a spinning-down container with pinning centres, exhibit sudden collective migration of quantized vortices. The onset, progress, and termination of this process remain poorly understood. Here, we show that: 1) the first exodus of vortices occurs when a sector of the vortex array, having a minimum opening angle, is vacated close to the wall; 2) driven by this exodus, the superfluid flow near the boundary continually decreases in strength and arrests the exit; and 3) the resultant depletion region has well-defined dimensions---governed primarily by the critical unpinning velocity, the container size, and the initial rotation rate---that limit the angular momentum transferred to the container. We conclude by discussing the relevance to pulsar glitches.",
-      "url": "http://arxiv.org/abs/2611.33103v1",
+      "id": "2611.34890v1",
+      "title": "The Splash population confined to the Milky Way bar region",
+      "summary": "We investigate the chemo-dynamical properties of in-situ stars in the Galactic bar region (central $5$ kpc), specifically the inner Galactic counterpart of the solar-neighbourhood Splash population (in situ halo). We use a sample of APOGEE DR17 red giants with Gaia astrometry and AstroNN distances, and separate bulge/bar stellar populations dynamically using a normalised time-averaged bar-frame angular momentum, $\\mathcal{V}_φ$. Chemo-dynamical maps in the $\\mathcal{V}_φ$-[Fe/H] plane reveal a pronounced extension of the bar population towards $\\mathcal{V}_φ<0$ (non-bar-following orbits) within $-1.0<{\\rm [Fe/H]}<-0.3$, characterised by high eccentricities, large $z_{\\rm max}$ and an extended spheroidal orbit density distribution, and accounting for $\\sim 30\\%$ of all stars at these metallicities. These $\\mathcal{V}_φ<0$ stars have [Mg/Fe] and [Al/Fe] abundances similar to those of stars on ${\\rm x_1}$ orbits at the same [Fe/H], and they match the solar-neighbourhood Splash in its metallicity and abundance ratio distributions. We therefore refer to them as the $\\textit{central Splash}$. The presence of a significant central Splash underscores the role of the Gaia-Sausage-Enceladus merger in the early history of the Galaxy. We find a similar, weaker extension in the $\\mathcal{V}_φ$-[Fe/H] maps for extremely metal-rich stars, which are confined to the bulge. At metallicities [Fe/H] $<0.3$, we find no additional classical bulge population in these maps beyond the central Splash and proto-Galactic populations $-$ the high-$α$ bulge appears to have evolved from the early high-$α$ disc.",
+      "url": "http://arxiv.org/abs/2611.34890v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Anantharaman Sekharipuram Viswanathan",
-        "Dipankar Bhattacharya"
+        "Aakash Pandey",
+        "Ortwin Gerhard"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33092v1",
-      "title": "Hesperos & Eosphoros: A Coupled Differentiable Forced-Photometry Operator and Forward Model for SPHEREx Spectrophotometry",
-      "summary": "We present Hesperos & Eosphoros, a forced-photometry operator and a forward model that, respectively, perform and model the spectrophotometric measurement of the Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer (SPHEREx). Implemented as GPU-accelerated, differentiable JAX programs, the two may be directly composed to measure the response of a downstream product (e.g., the galaxy density field) with respect to a modeled systematic or perturbation through the full measurement pipeline. We describe their design and demonstrate the composition on the response of an astrometric perturbation, and demonstrate how these may be used to generate direct measurement/pipeline response templates $\\partial({\\rm reconstructed\\ density})/\\partial({\\rm systematic\\ amplitude})$ for known image-level effects. Hesperos achieves a factor of $\\sim700\\times$ increased throughput per node-hour at production scale compared to the prior CPU-based Tractor measurement, previously the limiting step in the experiment's data processing, and propagates automatic derivatives through the full production measurement operator. We validate the measurement operator Hesperos against the public SPHEREx fork of The Tractor, and the forward model Eosphoros against the SPHEREx Sky Simulator and the renders themselves independently against GalSim. Taken together, this represents a powerful increase in capability for scaling, iterating, and optimizing galaxy clustering measurement pipelines.",
-      "url": "http://arxiv.org/abs/2611.33092v1",
+      "id": "2611.34867v1",
+      "title": "The oxygen cold trap in protoplanetary discs",
+      "summary": "The diffusive transport of oxygen in protoplanetary discs followed by sequestration into ice in the midplane, a process known as the cold trap, can substantially alter the chemical environment where planets form. This paper presents a new time-dependent modelling framework that allows us to consistently simulate kinetic gas-phase chemistry, ice growth and desorption, turbulent diffusive mixing, and gravitational settling of icy particles with a changing particle size distribution over million-year timescales in one-dimensional vertical columns. Applying our model to a T Tauri disc across radii from 1 to 100 au reveals that vertical cold trapping becomes an effective mechanism once the diffusion-to-settling timescale ratio exceeds unity, simultaneously driving the gas-phase C/O up toward unity, and the gas-phase C/H down, by up to two orders of magnitude at large distances. All models feature the development of an upward counter-flux due to the turbulent up-whirling of icy particles followed by ice sublimation above the horizontal icelines, which brings the cold trapping to a halt and eventually establishes a relaxed vertical structure after about $10^4$ to $10^6$ yr, depending on the radial distance. The ice formation leads to a strongly peaked size distribution around 1 mic, which contains the majority of the condensed mass in the disc after ice formation, and changes the dynamical behaviour of the grains substantially. We conclude that the vertical cold trap can provide an important part of the explanation why evolved discs observed with ALMA often show high C/O ratios as inferred from strong emissions from hydrocarbon molecules in the outer disc, such as C2H and c-C3H2. However, in none of our models does the C/O ratio exceed unity, which is a consequence of CO-blocking, a chemical process where water molecules naturally stop forming once C/O approaches unity.",
+      "url": "http://arxiv.org/abs/2611.34867v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "James Cheshire",
-        "Spencer Everett",
-        "Richard Feder",
-        "James Bock"
+        "Peter Woitke"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33083v1",
-      "title": "Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations",
-      "summary": "Wave-based cosmological simulations of scalar-field dark matter (SFDM) require accurate initialization of both density and complex-wavefunction phase. We develop and validate a matched $Λ$CDM--SFDM initialization framework connecting CLASS-SFDM, MUSIC, and AxioNyx. For quadratic SFDM with $m_φ=3.1623\\times10^{-22}\\,\\mathrm{eV}$ at $z_{\\rm ini}=120$, the scalar-component half-power scale is $k_{50}^φ\\simeq10.54\\,h\\,\\mathrm{Mpc}^{-1}$. An independent AxiECAMB comparison gives a normalized RMS deviation of $0.328\\%$ in the synchronous-gauge SFDM velocity divergence over $0.20944\\leq k\\leq13.4\\,h\\,\\mathrm{Mpc}^{-1}$. A $256^3$ MUSIC realization reproduces the CLASS density power spectrum over $8\\leq k\\leq13.404\\,h\\,\\mathrm{Mpc}^{-1}$ with a median ratio of $1.00131$ and an RMS fractional deviation of $0.138\\%$. Despite this agreement, full-volume phase diagnostics show that the fraction of velocity-implied phase increments violating the Nyquist criterion decreases from $46.7\\%$ at $256^3$ to $13.685\\%$ at $512^3$ and $0.124060\\%$ at $1024^3$. A separately generated realization yields $13.7299\\%$ and $0.124983\\%$ at $512^3$ and $1024^3$, respectively, with relative differences below $1\\%$. In a common-parent $512^3$--$1024^3$ comparison, the central-plane density fields remain strongly correlated ($r_δ=0.9989$). The median absolute circular phase difference is $0.264$ rad without masking and $0.246$ rad for $86.6\\%$ of blocks satisfying $R\\geq0.5$, with 90th percentiles $0.826$ and $0.753$ rad. These results demonstrate that accurate linear density recovery does not guarantee adequate wave-phase resolution and provide validation criteria for SFDM initial conditions prior to nonlinear evolution.",
-      "url": "http://arxiv.org/abs/2611.33083v1",
+      "id": "2611.34838v1",
+      "title": "Screening of New Abelian Long-Range Forces",
+      "summary": "We study how bounds on new $U(1)$ long-range forces, resulting from gauging the Standard Model symmetries $B-L$ and $L_a-L_b$, $a,b=e,μ,τ$, are modified if the mediator mass is generated by the Higgs mechanism. Large baryonic and leptonic charges of astronomical bodies displace the Higgs field from its vacuum value, resulting in charge screening. Depending on the $U(1)$ Higgs mass, the screening relaxes the bounds on the new force strength and mediator mass from equivalence principle violation and neutrino oscillations experiments, and eliminates the bounds on the muonic $L_μ-L_τ$ force from neutron star binaries.",
+      "url": "http://arxiv.org/abs/2611.34838v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Hafiz Inam Ullah",
-        "Muhammad Awais",
-        "Yourong Frank Wang",
-        "Tonatiuh Matos"
+        "Marco Costa",
+        "Andrey Shkerin",
+        "Ananda Thomlinson"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33002v1",
-      "title": "A Study of Three Intrinsically Luminous Long Period Interacting Eclipsing Binaries in the Galaxy and the Small Magellanic Cloud",
-      "summary": "The properties of the eclipsing binaries SMC004701.39-732645.8, SMC005609.41-722809.2 and PW Pup are examined using archival photometric and spectroscopic observations. These systems have orbital periods of hundreds of days, and contain highly evolved components with temperature differences of at least 1000 - 2000K. The SMC systems are among the brightest eclipsing binaries in that galaxy at visible wavelengths, and show excess thermal emission that appears to be typical for luminous K and M giants in that galaxy. A preliminary mass function for SMC004701 suggests a minimum mass for the secondary of 3.8 +/- 0.8 Msolar, whereas the PW Pup mass function indicates a minimum mass for the secondary of 3.2 +/- 0.3 Msolar. Light curve elements are examined for a range of mass ratios using observations at visible and mid-infrared (MIR) wavelengths. The results suggest that SMC004701 may prove to be a double line spectroscopic binary at visible wavelengths. However, with the possible exception of emission from a circumstellar disk, infrared observations will likely be required to detect light from the secondary in the other two systems. All three systems have likely experienced mass transfer, and had components with initial masses that correspond to B spectral types on the main sequence. The light associated with the secondary likely originates from a shell or disk that obscures a hotter central star.",
-      "url": "http://arxiv.org/abs/2611.33002v1",
+      "id": "2611.34817v1",
+      "title": "Azimuth Pointing and Momentum Management for a Lightweight High-Altitude Balloon Payload",
+      "summary": "The ALTAIR (Airborne Laser for Telescopic Atmospheric Interference Reduction) project provides photometric calibration for ground-based telescopes by flying an integrating sphere as an artificial star-like calibration source on a high-altitude balloon. Because the angular distribution of light from the exit port of the sphere is approximately Lambertian, the payload must keep its azimuth within $\\pm8^\\circ$ of the telescope line of sight. This condition bounds the fractional difference in light intensity from that along the exit-port normal to below 1%. The bound must be held for at least 30 s at a time. This paper presents a pointing architecture that combines passive stabilization, onboard attitude determination, and active azimuth control using a momentum wheel, with active desaturation through a second motor at the flight-train pivot. Carbon-fiber inertial booms reduce off-axis pendulating motion sufficiently for azimuth control to be treated independently. Attitude is determined by onboard fusion of rate gyro, accelerometer, magnetometer, and dual-antenna GNSS carrier-phase measurements. A high-fidelity simulation of the payload, including motor dynamics and limits, sensor noise, and wind disturbances generated from flight data, is used to size actuators and tune the control loops. The payload avionics, flight software, power management, controls, and real-time ground telemetry systems are developed in-house. The system is evaluated through ground testing, simulation, and two flights. With the momentum wheel alone, 53 intervals of 30 s pointing within $\\pm8^\\circ$ of the target azimuth are recorded during ascent, with a root-mean-square error (RMSE) of $3.7^\\circ$, and the longest uninterrupted window lasts 7 min 55 s with $5^\\circ$ of pointing RMSE. Simulation results suggest significant performance improvements from adding a pivot motor for momentum management.",
+      "url": "http://arxiv.org/abs/2611.34817v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "T. J. Davidge"
+        "Yorgo Abou Haidar",
+        "James Richard Forbes",
+        "Andrew Higgins",
+        "Benedetto D'Agnillo"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.32978v1",
-      "title": "Multi-Frequency Inversion of Meridional Flows Using Wave-Simulation-Based Sensitivity Kernels: Kernels, Method and Validation On Synthetic Data",
-      "summary": "Measuring the solar meridional circulation is central to understanding how magnetic flux and angular momentum are redistributed within the Sun. While time-distance helioseismology has been a primary tool for probing these internal flows, current methods generally rely on broadband travel-time measurements that compress the frequency dependence of the wavefield into single values for each measurement geometry. This approach overlooks the fact that different temporal frequencies sample the solar interior differently, potentially limiting our ability to resolve complex, depth-dependent flow structures. In this paper, we present a framework for performing meridional circulation inversions using frequency-dependent travel-time shifts and corresponding sensitivity kernels derived directly from global-scale, 3D wave-propagation simulations. We analyze sensitivities for horizontal and radial flows, noting that higher temporal frequencies offer increased spatial resolution while their practical application is balanced by the lower signal--to--noise ratio of travel-time measurements at frequencies above the 3 mHz peak of solar oscillations. Using an iterative regularized least-squares solver, we demonstrate that our method successfully recovers many aspects of complex circulation models while remaining robust against the stochastic noise of realistic simulations. We consider the impact of different regularization operators on the inversions, and enforcing constraints like mass conservation to improve inversion results.",
-      "url": "http://arxiv.org/abs/2611.32978v1",
+      "id": "2611.34802v1",
+      "title": "Tipping the scales in Blue Jay: Dust energy balance overpredicts IR luminosity in galaxies at $z\\sim2$",
+      "summary": "The spectral energy distribution (SED) of a galaxy encodes vital information about its chemical composition, stellar populations, and dust content. To model the infrared emission, many modern SED-fitting codes rely on dust energy balance, which assumes that all energy absorbed by dust in the UV-optical is equal to the energy emitted by dust in the infrared regime. However, few studies have been carried out to test the validity of this assumption at high redshift, where direct infrared observations are sparse. In this work, we perform aperture photometry in 111 galaxies from the Blue Jay survey ($1.7 < z < 3.5$) using public JWST/MIRI observations from the PRIMER, COSMOS-Web and COSMOS-3D surveys. Focusing on a subsample of 89 star-forming galaxies, we reconstruct best-fit SED model spectra from Prospector using only HST and NIRCam photometry and compare the predicted mid-infrared fluxes to the measured MIRI photometry. We find that mid-infrared fluxes are systematically overpredicted by about 10% at 7.7$μ$m up to a factor of $\\sim3$ at 21$μ$m. The discrepancy increases with inferred dust attenuation, indicating that dust energy balance suffers from line-of-sight effects in systems with complex dust geometries. We find that adding NIRSpec spectroscopy to the fits breaks parameter degeneracies and strongly reduces the overprediction. When fitting the measured MIRI photometry together with the HST and NIRCam data, the best-fit model spectra of dusty galaxies ($A_V\\gtrsim1$) result in significantly lower infrared luminosities by -0.6 dex compared to best-fit spectra obtained without MIRI, consistent with steeper, SMC-like attenuation curves or complex star-dust geometries. Our study highlights the limitations of dust energy balance at high redshift and underlines the importance of direct observations for accurately recovering the ISM and dust properties of galaxies at cosmic noon.",
+      "url": "http://arxiv.org/abs/2611.34802v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Thomas Hartlep",
-        "Junwei Zhao"
+        "Benjamin P. Collins",
+        "Sirio Belli",
+        "Letizia Bugiani",
+        "Amir H. Khoram"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.32963v1",
-      "title": "From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope",
-      "summary": "The scientific efficiency of ground-based astronomical observatories relies on effective decision-making in a dynamic, multi-timescale environment with complex scientific rewards. Traditional observation schedulers are designed and tuned by domain experts to handle these considerations using heuristic rules based on models of the environment and observational system. Here, we leverage historical data to train an automated telescope scheduler using behavior cloning (BC). The BC scheduler is trained purely on historical datasets; it is not given expert scheduling heuristics nor an optimal scientific reward. It is then evaluated in order of increasing realism: first on expert states, then in closed-loop offline rollouts, and finally during autonomous operation with real-time feedback on the NSF's Victor M.\\ Blanco 4-m Telescope. On expert states from holdout nights, the BC policy closely matches the expert distribution over airmass and Moon separation. During closed-loop rollouts on the same nights, we find that the per-observation data-quality metric, $t_{\\rm eff}$, falls by $6.9 \\pm 3.4\\%$ relative to the expert's. During on-sky deployment, the policy scheduled $149$ exposures in $5.2$ hours with an average $t_{\\rm eff} = 0.75 \\pm 0.26$, consistent with closed-loop rollout evaluations. No additional degradation was observed when transitioning to real observing conditions. This represents the first real-world, real-time deployment of a learned autonomous scheduler on a leadership-class national observatory and establishes a path toward on-sky evaluation of reinforcement-learning-based schedulers trained on archival schedules augmented with counterfactual trajectories.",
-      "url": "http://arxiv.org/abs/2611.32963v1",
+      "id": "2611.34797v1",
+      "title": "Measuring the flavor composition of high-energy neutrinos from the Milky Way",
+      "summary": "The origin of the Milky Way's high-energy neutrinos is debated. Their flavor composition reflects how they are made and could help settle it, but remains to be measured. We show that IceCube and KM3NeT, which see the inner Galaxy in complementary ways from opposite hemispheres, could start resolving its flavor composition in about a decade. With upcoming telescopes, they would infer the $ν_e$ fraction at the sources to within 27%. A first comparison of Galactic and extragalactic flavor compositions could reveal strong magnetic fields in extragalactic sources or neutrino decay.",
+      "url": "http://arxiv.org/abs/2611.34797v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "Rachel Hur",
-        "Paul Chichura",
-        "Alex Drlica-Wagner",
-        "Eric H. Neilsen"
+        "Mauricio Bustamante"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.32950v1",
-      "title": "A comparative analysis of the presence of haze in sub-Neptunes observed with JWST",
-      "summary": "Photochemical hazes have been proposed to explain the diversity of sub-Neptune transmission spectra, with early HST observations suggesting a temperature-dependent trend in aerosol opacity. However, JWST observations reveal a more heterogeneous picture. Here, we perform a consistent atmospheric retrieval analysis of eight moderately irradiated JWST-observed sub-Neptunes, LP 791-18 c, TOI-1231 b, TOI-732 c, TOI-270 d, GJ 1214 b, GJ 9827 d, GJ 3090 b, and TOI-421 b, using experimentally derived haze optical properties. We compare haze-free models with two experimentally haze analogues to assess haze evidence and spectral signatures. We find significant evidence for haze in LP 791-18 c, TOI-732 c and GJ 3090 b, while LP 791-18 c and GJ 3090 b evidences may be biased by TLS. Haze-favored solutions are primarily driven by short-wavelength spectral slope rather than characteristic infrared absorption features of the experimental analogues, except for TOI-732 c. We find no clear correlation between retrieved CH4 abundance and haze preference, suggesting that haze formation also depends on atmospheric composition and photochemical conditions. For TOI-270 d, the inferred haze properties vary with the MIRI inter-instrument offset and temperature parameterization without yielding significant evidence for haze, highlighting multidimensional retrieval degeneracies. Overall, our results do not support a ubiquitous haze trend across the JWST sub-Neptune sample, but rather a heterogeneous picture that could nevertheless evolve toward the HST trend with improved characterization of the host stars, more accurate TLS corrections and accounting for different haze types. Broader experimental haze measurements and multi-wavelength observations, including phase curves, will be essential to disentangle atmospheric aerosols from stellar contamination and other retrieval degeneracies.",
-      "url": "http://arxiv.org/abs/2611.32950v1",
+      "id": "2611.34790v1",
+      "title": "A Bayesian Approach to Prioritizing the Follow-Up of Near-Earth Objects",
+      "summary": "We present pneo, a Bayesian classifier that computes the probability that a single-night tracklet belongs to a near-Earth object (NEO), using only its sky position, angular motion, and apparent magnitude. A tracklet does not determine the object's distance or radial velocity, so pneo integrates a model of the Solar System's small-body populations over all bound orbits consistent with it. The result is the exact posterior probability under that model, with no tuned scores or separately chosen priors: its classifications are optimal for the adopted model, and its probabilities are calibrated. On real discovery tracklets from the NEO Confirmation Page, the classifier is well calibrated and its selection is 1.14 times purer than that of digest2, the classifier now in use, at the same completeness. The advantage grows at Rubin's depth, where the faint background of main-belt and more distant objects is still largely undiscovered. On simulated tracklets to that depth, its selection is 2 times purer than that of digest2 (96% against 48%). On the Rubin alert stream and Rubin Data Preview 2 its selection is 1.4-1.7 times purer than that of digest2, and its predicted NEO counts are close to those observed. By raising the fraction of follow-up targets that are NEOs, pneo could potentially double the effective capacity of NEO follow-up in the Rubin era.",
+      "url": "http://arxiv.org/abs/2611.34790v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv astrophysics",
       "topic": "astro",
       "authors": [
-        "A. Y. Jaziri",
-        "T. Drant",
-        "M. Turbet"
+        "Devanshi Singh",
+        "Mario Jurić",
+        "Željko Ivezić"
       ],
       "kind": "paper"
     }
   ],
   "quantum": [
     {
-      "id": "2611.33138v1",
-      "title": "Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions",
-      "summary": "The variational quantum algorithm ADAPT-VQE has previously been used to prepare the vacuum of lattice gauge theories in $1+1D$. In this paper, we study whether it extends to higher dimensions. We identify two general limitations of ADAPT-VQE. First, if the qubit Hamiltonian and the initial state are real, i.e., invariant under qubit-level time-reversal, all real-valued pool operators have vanishing gradients and are never selected. Second, the algorithm can converge to excited eigenstates. We illustrate both limitations, also providing examples from literature, and present a first application of ADAPT-VQE to a lattice field theory in $2+1D$, namely free Wilson fermions, where both obstacles occur. Adding charge conjugation symmetry to the operator pool improves the results, and combining different pools with suitable initial states recovers the ground and first excited states over the full mass range. These findings give practical guidelines for applying ADAPT-VQE to lattice field theories beyond $1+1D$.",
-      "url": "http://arxiv.org/abs/2611.33138v1",
+      "id": "2611.34922v1",
+      "title": "Vacuum correlation measures as CFT partition functions",
+      "summary": "We show that in any $d$-dimensional CFT, the vacuum sandwiched Rényi mutual information (SRMI) of integer order $n$ between two disjoint balls maps to a CFT partition function on a manifold of topology $\\#^{n-1}(S^1 \\times S^{d-1})$, with moduli fixed by the ball configuration and single-ball modular flow. At $n=2$, it is given by the thermal partition function on $S^{d-1}$, upper-bounding the von Neumann mutual information. For $n>2$, SRMI diverges at finite separation due to a hot-spot limit of the partition function. Explicit CFT evaluations agree well with density matrix computations.",
+      "url": "http://arxiv.org/abs/2611.34922v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Nico Dichter",
-        "Andrea Bulgarelli",
-        "Lena Funcke",
-        "Stefan Kühn"
+        "Hewei Frederic Jia"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33129v1",
-      "title": "A Koashi--Imoto Criterion for Holevo-Rate Visible Compression",
-      "summary": "For a finite memoryless quantum source whose encoder knows the sequence of classical labels, we determine when the Holevo rate is achievable with shared classical randomness and no shared entanglement. In the maximal Koashi--Imoto decomposition of the signal ensemble, this occurs exactly when each signal is pure on the quantum part of every sector it occupies. For qubits, this means that the signals are all pure or commute pairwise. If any occupied quantum part is mixed, every code with sufficiently small mean local error has rate bounded away from the Holevo information, uniformly in blocklength. To prove the converse, we apply Fawzi--Renner recovery to a hypothetical sequence of visible codes approaching the Holevo rate at vanishing local error, then invoke a decoupling bound of Baghali Khanian and Winter for blind compression.",
-      "url": "http://arxiv.org/abs/2611.33129v1",
+      "id": "2611.34921v1",
+      "title": "Bound Entanglement with Negative Partial Transpose Exists",
+      "summary": "We show that the Werner state $ρ= (23 I - 3\\,\\mathrm{SWAP})/1448$ on $\\mathbb{C}^8 \\otimes \\mathbb{C}^8$ has a negative partial transpose and is bound entangled: no LOCC protocol can distill entanglement from any number of copies of $ρ$, and even with separable operations the fidelity of a two-qubit output with a Bell state never exceeds $(1+\\sqrt{2})/4 \\approx 0.604$. It follows that distillable entanglement is neither additive nor convex.",
+      "url": "http://arxiv.org/abs/2611.34921v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Anthony M. Polloreno"
+        "Islam Faisal"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33128v1",
-      "title": "Classical algorithms for sparse random Hamiltonians via free probability",
-      "summary": "The search for quantum advantage in average-case problems is a pressing open question in physics and computer science. The widest conjectured example of such an advantage is in simulation of quantum many-body systems, where sign problems and entanglement growth cause the breakdown of many classical methods. Nonetheless, theoretical evidence for or against such an advantage remains scarce. Here, we investigate this in sparse random non-local Hamiltonians. We design a classical algorithm for such Hamiltonians that enables accurate computation of spectral fluctuations, thermal values, and time-ordered and out-of-time-order correlation functions. For any subexponential precision $\\varepsilon$, our algorithm runs in time $(1/\\varepsilon)^{2+o(1)}$, nearly identical to a quantum simulation. Crucially, this applies even at late evolution times, low temperatures, and near critical points, where existing classical methods require exponential time. Rather than directly simulating a quantum state or operator, our algorithm first computes the model's mean behavior and then a short hierarchy of instance-dependent corrections. These corrections predict long-time behavior based on short-time data using free probability theory.",
-      "url": "http://arxiv.org/abs/2611.33128v1",
+      "id": "2611.34916v1",
+      "title": "Complementary mechanisms of critical quantum metrology",
+      "summary": "Critical metrology conventionally exploits enhanced susceptibility to a system parameter near a phase transition. Here we identify a complementary mechanism for critically enhanced estimation of intrinsic system parameters via suppressed quantum noise rather than enhanced response. We demonstrate both mechanisms in coherently radiating spin states (CRSS)-correlated states of $N$ spin-$1/2$ particles defined as asymptotic eigenstates of the collective-spin lowering operator with complex eigenvalue $r e^{-i\\varphi}$. At the critical value $r=1$, CRSS exhibit a second-order transition. We show that near criticality, estimation of $r$ benefits from enhanced susceptibility despite increased noise, whereas estimation of $\\varphi$ benefits from suppressed quantum noise without enhanced response. Remarkably, both yield the same estimation error $\\sim N^{-2/3}$, improving over the standard quantum limit $N^{-1/2}$. For $\\varphi$, this establishes quantum-enhanced metrology of phases intrinsic to the critical system, rather than phases externally encoded by interferometry. We demonstrate these results for CRSS realizations in both dissipative (superradiant) and Hamiltonian (Ising) systems relevant to cavity QED and trapped ions, where fast preparation of CRSS is shown possible thanks to gap opening. Applications to metrology of coupling rates and phases or optical lengths are discussed.",
+      "url": "http://arxiv.org/abs/2611.34916v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Matthew Ding",
-        "Robbie King",
-        "Thomas Schuster"
+        "Nikita Leppenen",
+        "Shaked Levy",
+        "Ephraim Shahmoon"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33121v1",
-      "title": "Anomalies and the Berry Phase: From $π^0\\toγγ$ to the geometry of the fermion vacuum",
-      "summary": "We review the chiral anomaly from a historical perspective, from the $π^0\\toγγ$ puzzle and the work of Adler, Bell and Jackiw, to the Wess-Zumino-Witten (WZW) term. We then describe how the WZW term was motivated from quantum chromodynamics in 1983-85. Integrating out the non-Abelian gauge fields, that have a gapped spectrum, gives a Nambu-Jona-Lasinio type theory of quarks, and integrating out the quarks, which are gapped by chiral symmetry breaking, gives the WZW model. The fermion determinant splits into a regulator-dependent modulus, which gives the dynamics of mesons, and a universal phase, which is fixed by the anomaly and is the WZW term. Restricted to the collective coordinates of the baryon soliton, the WZW term imposes a U(1) constraint that makes the baryon wave functions monopole harmonics and fixes their spin, statistics and flavour multiplets. We then explain that this phase is a Berry phase: the Schwinger terms of current algebra are the curvature of a U(1) connection on the space of chiral field configurations, and the WZW term is its holonomy, which we call a Berry-Wilson loop. In 1+1 dimensions we write the connection explicitly in terms of Euler angles, exhibiting a Dirac monopole whose quantised charge is the level of the current algebra.",
-      "url": "http://arxiv.org/abs/2611.33121v1",
+      "id": "2611.34909v1",
+      "title": "The thermodynamic budget of objectivity",
+      "summary": "An event becomes a fact when enough independent records of it exist such that no operation is possible that leaves all observers ignorant of it again. Records are physical, and creating, keeping, and destroying them have thermodynamic costs. We compute these costs exactly in a minimal broadcast model with a driven central qubit writing records into $N$ initially thermal registers, with work sources and baths at temperature $T$. The basic arguments for the operations are outlined here, with full treatment in the text. Creation of one event record at redundancy $R$ and information deficit $δ$ requires work $W \\ge R\\, k_\\mathrm{B}T \\ln 2\\, (1-δ) H(\\varepsilon)$, linear in redundancy at the Landauer coefficient. Recording in a basis misaligned by $θ$ with the einselecting interaction fails at a critical angle, $θ_c = 2\\arcsin\\sqrt{H_2^{-1}(δ)}$, beyond which objectivity is unreachable at any work, and below $θ_c$ the optimal work is a closed form in the pointer basis that minimizes the work of objectivity. Reducing objectivity is impossible at any work with access to fewer than $R - R_{\\min} + 1$ records, while work protects nothing if given access. Inter-record redundancy is extractable free energy and erasing the accessed records yields a net gain of work beyond the first copy. The second law constrains the destruction of the correlation: erasing a fact from a sector an adversary controls dissipates at least the mutual information erased, but a consolidation dissipates nothing. Records in re-thermalizing media are nonequilibrium steady states, and the minimal power to maintain a record at $(R,δ)$ is the known two-state driving bound evaluated at the record-quality boundary.",
+      "url": "http://arxiv.org/abs/2611.34909v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Spenta R. Wadia"
+        "Wonyong Chung"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33112v1",
-      "title": "Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer",
-      "summary": "Tantalum (Ta) based superconducting circuits have attracted attention for their low microwave loss. However, reproducible growth of high-quality $α$-phase Ta films remains challenging because film properties are highly sensitive to growth conditions. We present a robust, room-temperature route for $α$-Ta growth on sapphire substrates using an ultrathin Ti seed layer, which significantly widens the accessible deposition parameter space. We compare this approach to Ta films grown at high temperature without a seed layer and at room temperature with a Nb seed. We assess films using structural and surface characterization and quantify microwave loss with coplanar-waveguide (CPW) resonators measured in the quantum regime. We obtain two-level-system (TLS)-limited quality factors comparable to the state of the art for Ta-on-sapphire CPW resonators with similar geometries. In addition, temperature-dependent measurements reveal that high-temperature-grown films and films subjected to extended buffered-oxide etch treatment exhibit additional temperature activated loss, highlighting the role of growth route and post-processing in microwave performance. Our results establish ultrathin seed-layer engineering as a reliable alternative route to reproducible, low-loss $α$-Ta films and motivate closer study of the interfacial mechanisms that govern Ta phase formation.",
-      "url": "http://arxiv.org/abs/2611.33112v1",
+      "id": "2611.34895v1",
+      "title": "Schrödinger's Legacy: The Wave Function and Quantum Reality",
+      "summary": "The article discusses how Schrödinger arrived at the formulation of wave mechanics and his legacy on the philosophy of quantum mechanics, focusing in particular on the metaphysics of the wave function. Schrödinger's interpretation of the wave function as electron charge density is generally dismissed or presented only as a curious historical example in the literature. On a closer look, however, while this interpretation was eventually abandoned in favor of Born's statistical interpretation, Schrödinger's idea survived in modern realist approaches to the wave function, such as the mass-density approach and the multi-field interpretation. It also proved to be of great utility in modern techniques and approximations in quantum chemistry to compute the shape of atoms and molecules. Overall, Schrödinger's interpretation of the wave function and his realist understanding of quantum mechanics paved the way to modern attempts to define a clear ontology of the microscopic world, a tradition that survived the Copenhagen interpretation of Bohr and Heisenberg and that is still present today.",
+      "url": "http://arxiv.org/abs/2611.34895v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Anand Kamlapure",
-        "Lucas Hak",
-        "Kishore Kumar Thiyagarajan",
-        "Hozanna Miro"
+        "Davide Romano",
+        "Massimiliano Badino"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33063v1",
-      "title": "Finite-Temperature Superradiant Criticality and Thermal Emission in the Open Dicke Model",
-      "summary": "Near the superradiant phase transition of the Dicke model, the lowest-frequency excitation softens and its losses can no longer be treated as a weak perturbation. We develop a finite-temperature theory of this transition in the open system, with no restriction on the strength of the system-bath coupling. The cavity mode and the atomic ensemble are coupled to independent reservoirs, the first at zero temperature and the second at temperature $T$, and we assume that the spins remain thermalized with their reservoir. We find that the reservoirs do not shift the temperature-dependent critical coupling for a broad class of spectral densities, while the polariton becomes overdamped in a finite interval of couplings around it. As expected, raising the temperature moves the transition to stronger couplings, and in the superradiant phase we find a faster decoupling of light and matter. The theoretical framework developed here yields the reflection and thermal emission spectra for arbitrary parameters in both the normal and the superradiant phase, and provides a basis for comparison with experiments on systems displaying ground-state condensation. We also identify conditions under which the system behaves, at specific frequencies, as both a perfect absorber and a perfect emitter.",
-      "url": "http://arxiv.org/abs/2611.33063v1",
+      "id": "2611.34891v1",
+      "title": "Neural Network Decoders For Qubit Loss",
+      "summary": "Qubit loss is a significant source of error in many quantum hardware platforms, requiring circuits that periodically replace or reset qubits to maintain fault-tolerance. When the reset process includes loss-resolving measurements, this information can improve decoding and substantially reduce overhead compared to the case where this information is not available. Prior work has demonstrated loss-tolerant circuits for the surface code that show significantly improved thresholds and subthreshold scaling by incorporating loss information. However, the computational complexity of loss simulation and decoding, which falls outside of the usual stabilizer framework, has limited extending these studies to high-rate qLDPC codes, which are already challenging to decode in the absence of loss. In this work, we present a loss-aware convolutional neural-network (CNN) decoder framework that circumvents this challenge. Training is enabled by a novel sampler, \\texttt{slim}, which achieves a throughput for circuits with Pauli noise and loss that is comparable to the state-of-the-art for pure Pauli noise. On the surface code with loss, the decoder matches the accuracy of computationally expensive most-likely error (MLE) decoders at much lower latency. For the $[[144,12,12]]$ bivariate bicycle (Gross) code, we study a walking syndrome extraction circuit with Pauli and loss errors. For physical error rates $p<1\\%$, we observe a more than $10^3$-fold lower logical error rate for a pure loss model, relative to a pure Pauli error model at the same physical error rate, along with significantly enhanced sub-threshold error rate scaling. This demonstrates that loss-dominated error models can also significantly improve performance in a high-rate qLDPC code, and provides a simulation and decoder training platform that can be extended to other codes and algorithmic gadgets.",
+      "url": "http://arxiv.org/abs/2611.34891v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Gabriele Orlando",
-        "Samuel Napoli",
-        "Salvatore Savasta",
-        "Omar Di Stefano"
+        "J. Wilson Staples",
+        "Winston Fu",
+        "Yihe Dong",
+        "Jeff D. Thompson"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33055v1",
-      "title": "Class-resolved sifting for quantum key distribution with photon pairs hyperentangled in polarization and transverse spatial variables",
-      "summary": "Photon pairs hyperentangled in polarization and transverse spatial variables can carry two key bits per pair in entanglement-based quantum key distribution. We develop class-resolved sifting for such sources: every detected pair is assigned to a class according to which degrees of freedom were measured in compatible bases, and error and key rates are estimated separately in each class. Applied to previously reported data from a two-crystal spontaneous parametric down-conversion source read out in intermediate fractional-Fourier planes, the method recovers the key yield of independent sifting and turns the comparison between classes into a quantitative consistency test for cross-dependencies between the two degrees of freedom. The measured dependence lies below the spatial-polarization coupling predicted for the source, at the edge of the present statistical sensitivity. Resolving the data by polarization-analyzer setting, we find an approximately twofold dependence of the spatial error on the polarization setting in one readout arm, attributable to the measurement apparatus rather than to the source and relevant to basis-dependent side channels. We compare the hyperentangled protocol with a single 4-dimensional system measured in two mutually unbiased bases. Fundamentally, both yield the same key per detected pair and obey the same entropic bound, but they differ in their tensor-product structure: hyperentanglement factors the bases into separate two-outcome measurements, which are simpler to implement and allow errors to be attributed to each degree of freedom, whereas a single variable gives access to non-product bases that can increase the noise tolerance. For the present source, whose polarization coherence is limited by partial which-crystal erasure, a single-variable spatial encoding would yield more key only if its four-outcome readout kept the symbol error within a few percent.",
-      "url": "http://arxiv.org/abs/2611.33055v1",
+      "id": "2611.34889v1",
+      "title": "The Price of Quantum Advantage in Computational Chemistry",
+      "summary": "As the fault-tolerant era approaches, the question shifts from ``is it possible'' to ``is it worthwhile.'' To assess practical quantum advantage against reliable classical baselines, we examine 26 benchmark instances including FeMoco, iron-sulfur clusters, cytochrome P450, and ruthenium catalysts using two selected configuration interaction solvers, SHCI and TrimCI. Comparing classical workloads with fault-tolerant resource estimates, we calculate the break-even whole-QPU hourly price. Even at an optimistic price of US\\$7{,}000 per whole-QPU hour, and with mid-range CPU clusters, classical computation remains cheaper for six of seven systems. FeMoco alone remains sensitive to the classical method and extrapolation strategy. Wavefunction analysis further reveals how orbital choice affects the determinant support required for target-state overlap in quantum phase estimation (QPE). Our results highlight the importance of reliable classical references and trial-state characterization, and quantify the economic conditions under which quantum computing can become competitive with classical alternatives.",
+      "url": "http://arxiv.org/abs/2611.34889v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Murilo H. Magiotto",
-        "Millena B. Novaes",
-        "Wesley B. Cardoso",
-        "Ardiley T. Avelar"
+        "Haejung Koh",
+        "Katerina Gratsea",
+        "Hao Zhang",
+        "Matthew Otten"
       ],
       "kind": "paper"
     },
     {
-      "id": "2611.33027v1",
-      "title": "Polynomial Master Equations of Open Quantum Systems and an Analysis on the Critical Solutions",
-      "summary": "The dynamics of open quantum systems exhibits in general a non-Markovian behavior, lying typically beyond the description of first-order differential equations. Traditional methods commonly turned to first-order integro-differential equations, which allowed for the standard interpretation of non-Markovianity as having its origin in the global history of the system evolution. We examine the possibility of an alternative, locally deterministic interpretation [arXiv:2607.09651] of the working of its dynamical hysteresis, where the evolution of a system is determined by its local behavior alone. The present work elaborates on our systematic method in deriving non-Markovian linear differential equations associated with matrix polynomials of higher order. Our methods will be demonstrated with exact analyses on two illustrative examples: one built upon the simplest non-trivial model concerning a two-qubit system, and another involving an unbounded Hamiltonian defined on an infinite-dimensional quantum system. We also analyze the critical parameters at which qualitative changes are observed in the system dynamics, and reveal how our polynomial equations account for the phenomena.",
-      "url": "http://arxiv.org/abs/2611.33027v1",
+      "id": "2611.34883v1",
+      "title": "Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems",
+      "summary": "Rare transitions govern the dynamics of many open quantum systems, but their probabilities and rates are difficult to calculate. Transition path sampling (TPS) of quantum systems has so far been limited to Markovian, perturbative descriptions. Here, we formulate TPS for non-Markovian quantum state diffusion, which is exact for Gaussian baths, extending it to non-Markovian and strongly coupled open quantum systems. For normal-to-superradiant tunneling in the unbalanced open Dicke model, we determine probabilities down to $10^{-8}$ and rates beyond the reach of brute force.",
+      "url": "http://arxiv.org/abs/2611.34883v1",
       "image": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "arXiv quant-ph",
       "topic": "quantum",
       "authors": [
-        "Miku Ishizaki",
-        "Jaeha Lee"
+        "Ritesh Pant",
+        "Kai Müller",
+        "Tarun Gera",
+        "Doran I. G. B. Raccah"
       ],
       "kind": "paper"
     }
@@ -710,9 +692,9 @@
     "device": "default.qubit",
     "mode": "classical simulation of a quantum circuit",
     "title": "Two-qubit entanglement experiment",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "description": "Prepare a parameterized qubit, apply a Hadamard gate, entangle the pair with CNOT, then estimate basis-state probabilities and the Pauli-Z expectation value.",
-    "theta_radians": 1.179,
+    "theta_radians": 0.7721,
     "shots": 1000,
     "basis_states": [
       "|00⟩",
@@ -721,27 +703,36 @@
       "|11⟩"
     ],
     "probabilities": [
-      0.335,
-      0.35,
-      0.145,
-      0.17
+      0.43,
+      0.417,
+      0.085,
+      0.068
     ],
-    "z_expectation": 0.382,
-    "circuit_text": "0: ──RY(1.18)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
+    "z_expectation": 0.696,
+    "circuit_text": "0: ──RY(0.77)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
     "source": "PennyLane simulator",
     "url": "https://pennylane.ai/"
   },
   "daily_brief": [
-    "Space watch: NASA Science",
-    "Quantum watch: Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions",
+    "Space watch: A comparison of two- and one-fluid dust solvers for dusty, supersonic turbulence",
+    "Quantum watch: Vacuum correlation measures as CFT partition functions",
     "Weather in Coimbatore: 25.0°C, thunderstorm."
   ],
   "source_status": {
-    "nasa_apod": true,
+    "nasa_apod": false,
     "arxiv_astro": true,
     "arxiv_quantum": true,
-    "weather": true,
+    "weather": false,
     "pennylane": true
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "NASA APOD",
+      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
+    },
+    {
+      "source": "Weather",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=20)"
+    }
+  ]
 }
