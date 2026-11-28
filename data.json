@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T09:45:25.596204+00:00",
-  "generated_for_date": "2026-11-27",
+  "updated_at": "2026-11-28T08:58:42.963037+00:00",
+  "generated_for_date": "2026-11-28",
   "status": "partial",
   "astro": [
     {
@@ -692,9 +692,9 @@
     "device": "default.qubit",
     "mode": "classical simulation of a quantum circuit",
     "title": "Two-qubit entanglement experiment",
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "description": "Prepare a parameterized qubit, apply a Hadamard gate, entangle the pair with CNOT, then estimate basis-state probabilities and the Pauli-Z expectation value.",
-    "theta_radians": 0.2906,
+    "theta_radians": 0.757,
     "shots": 1000,
     "basis_states": [
       "|00⟩",
@@ -703,13 +703,13 @@
       "|11⟩"
     ],
     "probabilities": [
-      0.513,
-      0.471,
-      0.007,
-      0.009
+      0.424,
+      0.431,
+      0.067,
+      0.078
     ],
-    "z_expectation": 0.962,
-    "circuit_text": "0: ──RY(0.29)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
+    "z_expectation": 0.718,
+    "circuit_text": "0: ──RY(0.76)─╭●───────────┤ ╭Probs  <Z>\n1: ──H────────╰X──RZ(0.35)─┤ ╰Probs     ",
     "source": "PennyLane simulator",
     "url": "https://pennylane.ai/"
   },
@@ -722,13 +722,17 @@
     "nasa_apod": false,
     "arxiv_astro": true,
     "arxiv_quantum": true,
-    "weather": true,
+    "weather": false,
     "pennylane": true
   },
   "errors": [
     {
       "source": "NASA APOD",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
+    },
+    {
+      "source": "Weather",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=20)"
     }
   ]
 }
